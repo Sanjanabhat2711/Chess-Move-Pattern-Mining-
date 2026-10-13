@@ -1,0 +1,1969 @@
+support_count,support_frac,sequence_length,pattern,in_fp_growth
+228,0.51236,2,d4 → Nf6,True
+198,0.444944,2,Nf3 → Nf6,True
+189,0.424719,2,e4 → Nf3,True
+180,0.404494,2,d4 → Nc3,True
+162,0.364045,2,Nf6 → Nc3,True
+161,0.361798,2,e4 → Nf6,True
+147,0.330337,2,d4 → d5,True
+142,0.319101,3,d4 → Nf6 → Nc3,True
+142,0.319101,2,d4 → c4,True
+138,0.310112,2,Nf3 → Nc6,True
+135,0.303371,3,e4 → Nf3 → Nf6,True
+131,0.294382,2,c4 → Nc3,True
+130,0.292135,2,e4 → Nc6,True
+125,0.280899,2,e4 → d4,True
+119,0.267416,3,e4 → Nf3 → Nc6,True
+118,0.265169,2,e4 → e5,True
+117,0.262921,2,c4 → e6,True
+115,0.258427,2,Nf3 → Nc3,True
+112,0.251685,2,Nf6 → c4,True
+110,0.247191,2,d4 → e6,True
+110,0.247191,2,e4 → c5,True
+107,0.240449,2,d4 → Nf3,True
+104,0.233708,2,Nf6 → e6,True
+102,0.229213,2,Nf3 → d4,True
+101,0.226966,2,e4 → Nc3,True
+100,0.224719,2,Nf6 → O-O,True
+99,0.222472,3,d4 → Nf6 → c4,True
+98,0.220225,2,e4 → d6,True
+96,0.21573,2,c5 → Nf3,True
+95,0.213483,3,d4 → c4 → Nc3,True
+94,0.211236,2,Nf6 → d5,True
+94,0.211236,2,e5 → Nf3,True
+93,0.208989,3,e4 → c5 → Nf3,True
+93,0.208989,2,c4 → Nf3,True
+92,0.206742,2,c4 → d5,True
+91,0.204494,3,d4 → c4 → e6,True
+91,0.204494,2,Nf3 → O-O,True
+90,0.202247,2,e6 → d5,True
+87,0.195506,3,e4 → e5 → Nf3,True
+87,0.195506,2,e6 → Nc3,True
+87,0.195506,2,Nf3 → a6,True
+86,0.193258,3,d4 → Nf6 → e6,True
+85,0.191011,2,e5 → Nc6,True
+83,0.186517,2,Nf6 → Nf3,True
+81,0.182022,3,e4 → Nf3 → d4,True
+81,0.182022,2,Nf3 → d5,True
+81,0.182022,2,Nf3 → d6,True
+81,0.182022,2,e5 → Nf6,True
+81,0.182022,2,Nc6 → Nf6,True
+79,0.177528,2,d5 → Nf6,True
+78,0.175281,3,Nf3 → Nc6 → Nf6,True
+78,0.175281,3,Nf3 → Nf6 → Nc3,True
+78,0.175281,3,e4 → e5 → Nc6,True
+78,0.175281,3,e5 → Nf3 → Nc6,True
+77,0.173034,3,d4 → c4 → Nf3,True
+77,0.173034,3,e4 → Nc6 → Nf6,True
+76,0.170787,3,e4 → e5 → Nf6,True
+75,0.168539,4,e4 → Nf3 → Nc6 → Nf6,True
+75,0.168539,3,Nf6 → c4 → Nc3,True
+74,0.166292,4,e4 → e5 → Nf3 → Nc6,True
+74,0.166292,3,e4 → Nf3 → d6,True
+74,0.166292,2,d4 → cxd4,True
+74,0.166292,2,c5 → cxd4,True
+73,0.164045,4,e4 → e5 → Nf3 → Nf6,True
+73,0.164045,3,e4 → d4 → Nc3,True
+73,0.164045,3,e5 → Nf3 → Nf6,True
+73,0.164045,2,c5 → d4,True
+73,0.164045,2,c5 → Nc3,True
+72,0.161798,2,g6 → Bg7,True
+71,0.159551,3,Nf6 → c4 → e6,True
+71,0.159551,3,e4 → d4 → cxd4,True
+71,0.159551,2,e4 → cxd4,True
+71,0.159551,2,e4 → a6,True
+70,0.157303,4,d4 → Nf6 → c4 → Nc3,True
+70,0.157303,3,d4 → Nf6 → d5,True
+70,0.157303,3,e4 → d4 → Nxd4,True
+70,0.157303,3,e4 → c5 → d4,True
+70,0.157303,3,e4 → c5 → cxd4,True
+70,0.157303,2,d4 → Nxd4,True
+70,0.157303,2,e4 → Nxd4,True
+69,0.155056,3,c5 → d4 → cxd4,True
+69,0.155056,2,Nf3 → cxd4,True
+68,0.152809,3,Nf3 → d4 → cxd4,True
+68,0.152809,3,e4 → Nf3 → Nc3,True
+68,0.152809,3,e5 → Nc6 → Nf6,True
+68,0.152809,2,Nf3 → Nxd4,True
+68,0.152809,2,d5 → Nc3,True
+67,0.150562,5,e4 → e5 → Nf3 → Nc6 → Nf6,True
+67,0.150562,4,e4 → e5 → Nc6 → Nf6,True
+67,0.150562,4,e4 → c5 → d4 → cxd4,True
+67,0.150562,4,e5 → Nf3 → Nc6 → Nf6,True
+67,0.150562,3,Nf3 → d4 → Nxd4,True
+67,0.150562,3,e4 → Nf3 → Nxd4,True
+67,0.150562,3,e4 → Nf3 → a6,True
+67,0.150562,2,c5 → Nf6,True
+66,0.148315,4,e4 → Nf3 → d4 → Nxd4,True
+66,0.148315,3,d4 → c4 → d5,True
+65,0.146067,4,e4 → c5 → Nf3 → d4,True
+65,0.146067,3,d4 → Nf6 → Nf3,True
+65,0.146067,3,Nf6 → c4 → d5,True
+65,0.146067,3,e4 → d4 → Nf6,True
+65,0.146067,3,c5 → Nf3 → d4,True
+65,0.146067,2,c5 → d6,True
+64,0.14382,5,e4 → c5 → Nf3 → d4 → cxd4,True
+64,0.14382,4,e4 → Nf3 → d4 → cxd4,True
+64,0.14382,4,e4 → c5 → Nf3 → cxd4,True
+64,0.14382,4,c5 → Nf3 → d4 → cxd4,True
+64,0.14382,3,c4 → e6 → Nc3,True
+64,0.14382,3,e4 → Nf3 → cxd4,True
+64,0.14382,3,e4 → c5 → Nc3,True
+64,0.14382,3,c5 → Nf3 → cxd4,True
+63,0.141573,4,e4 → d4 → cxd4 → Nxd4,True
+63,0.141573,4,e4 → c5 → cxd4 → Nxd4,True
+63,0.141573,3,d4 → cxd4 → Nxd4,True
+63,0.141573,3,e4 → c5 → Nxd4,True
+63,0.141573,3,e4 → cxd4 → Nxd4,True
+63,0.141573,3,c5 → cxd4 → Nxd4,True
+63,0.141573,2,g3 → Bg2,True
+63,0.141573,2,e4 → O-O,True
+63,0.141573,2,c5 → Nxd4,True
+63,0.141573,2,c5 → Nc6,True
+63,0.141573,2,cxd4 → Nxd4,True
+62,0.139326,5,e4 → c5 → d4 → cxd4 → Nxd4,True
+62,0.139326,4,d4 → Nf6 → c4 → e6,True
+62,0.139326,4,d4 → Nf6 → c4 → d5,True
+62,0.139326,4,e4 → c5 → d4 → Nxd4,True
+62,0.139326,4,c5 → d4 → cxd4 → Nxd4,True
+62,0.139326,3,c4 → e6 → d5,True
+62,0.139326,3,e4 → c5 → Nf6,True
+62,0.139326,3,c5 → d4 → Nxd4,True
+62,0.139326,2,c4 → Nf6,True
+61,0.137079,4,Nf3 → d4 → cxd4 → Nxd4,True
+61,0.137079,3,Nf3 → d4 → Nf6,True
+61,0.137079,3,Nf3 → cxd4 → Nxd4,True
+60,0.134831,6,e4 → c5 → Nf3 → d4 → cxd4 → Nxd4,True
+60,0.134831,5,e4 → Nf3 → d4 → cxd4 → Nxd4,True
+60,0.134831,5,e4 → c5 → Nf3 → d4 → Nxd4,True
+60,0.134831,5,e4 → c5 → Nf3 → cxd4 → Nxd4,True
+60,0.134831,5,c5 → Nf3 → d4 → cxd4 → Nxd4,True
+60,0.134831,4,e4 → Nf3 → cxd4 → Nxd4,True
+60,0.134831,4,e4 → c5 → Nf3 → Nxd4,True
+60,0.134831,4,c5 → Nf3 → d4 → Nxd4,True
+60,0.134831,4,c5 → Nf3 → cxd4 → Nxd4,True
+60,0.134831,3,Nf3 → d4 → Nc3,True
+60,0.134831,3,e4 → Nc6 → Bb5,True
+60,0.134831,3,c5 → Nf3 → Nxd4,True
+60,0.134831,2,e4 → Bb5,True
+60,0.134831,2,Nc6 → Bb5,True
+59,0.132584,4,e4 → c5 → Nf3 → Nc3,True
+59,0.132584,3,c5 → Nf3 → Nc3,True
+59,0.132584,2,e6 → Nf3,True
+59,0.132584,2,d6 → Nc3,True
+58,0.130337,4,e4 → Nf3 → Nc6 → Bb5,True
+58,0.130337,3,Nf3 → Nc6 → Bb5,True
+58,0.130337,3,e4 → Nf3 → Bb5,True
+58,0.130337,2,Nf3 → Bb5,True
+58,0.130337,2,Nf3 → e6,True
+58,0.130337,2,d6 → Nf6,True
+57,0.12809,3,d4 → d5 → Nc3,True
+57,0.12809,3,c5 → Nf3 → Nf6,True
+57,0.12809,2,c4 → g3,True
+56,0.125843,4,e4 → c5 → Nf3 → Nf6,True
+56,0.125843,2,Nf6 → g3,True
+56,0.125843,2,d5 → Nf3,True
+55,0.123596,3,Nf3 → Nf6 → O-O,True
+55,0.123596,3,e4 → Nf3 → O-O,True
+55,0.123596,3,e4 → Nf6 → Nc3,True
+55,0.123596,3,e4 → c5 → d6,True
+55,0.123596,2,e4 → d5,True
+54,0.121348,5,e4 → c5 → Nf3 → d4 → Nc3,True
+54,0.121348,4,e4 → Nf3 → d4 → Nc3,True
+54,0.121348,4,e4 → c5 → d4 → Nc3,True
+54,0.121348,4,c5 → Nf3 → d4 → Nc3,True
+54,0.121348,3,e4 → d6 → Nf6,True
+54,0.121348,3,c5 → Nf3 → d6,True
+54,0.121348,3,c5 → d4 → Nc3,True
+53,0.119101,7,e4 → c5 → Nf3 → d4 → cxd4 → Nxd4 → Nc3,True
+53,0.119101,6,e4 → Nf3 → d4 → cxd4 → Nxd4 → Nc3,True
+53,0.119101,6,e4 → c5 → Nf3 → d4 → cxd4 → Nc3,True
+53,0.119101,6,e4 → c5 → Nf3 → d4 → Nxd4 → Nc3,True
+53,0.119101,6,e4 → c5 → Nf3 → cxd4 → Nxd4 → Nc3,True
+53,0.119101,6,e4 → c5 → d4 → cxd4 → Nxd4 → Nc3,True
+53,0.119101,6,c5 → Nf3 → d4 → cxd4 → Nxd4 → Nc3,True
+53,0.119101,5,Nf3 → d4 → cxd4 → Nxd4 → Nc3,True
+53,0.119101,5,e4 → Nf3 → d4 → Nxd4 → Nc3,True
+53,0.119101,5,e4 → Nf3 → d4 → cxd4 → Nc3,True
+53,0.119101,5,e4 → Nf3 → cxd4 → Nxd4 → Nc3,True
+53,0.119101,5,e4 → d4 → cxd4 → Nxd4 → Nc3,True
+53,0.119101,5,e4 → c5 → Nf3 → cxd4 → Nc3,True
+53,0.119101,5,e4 → c5 → Nf3 → Nxd4 → Nc3,True
+53,0.119101,5,e4 → c5 → d4 → cxd4 → Nc3,True
+53,0.119101,5,e4 → c5 → d4 → Nxd4 → Nc3,True
+53,0.119101,5,e4 → c5 → cxd4 → Nxd4 → Nc3,True
+53,0.119101,5,c5 → Nf3 → d4 → cxd4 → Nc3,True
+53,0.119101,5,c5 → Nf3 → d4 → Nxd4 → Nc3,True
+53,0.119101,5,c5 → Nf3 → cxd4 → Nxd4 → Nc3,True
+53,0.119101,5,c5 → d4 → cxd4 → Nxd4 → Nc3,True
+53,0.119101,4,d4 → cxd4 → Nxd4 → Nc3,True
+53,0.119101,4,Nf3 → d4 → Nxd4 → Nc3,True
+53,0.119101,4,Nf3 → d4 → cxd4 → Nc3,True
+53,0.119101,4,Nf3 → cxd4 → Nxd4 → Nc3,True
+53,0.119101,4,e4 → Nf3 → Nxd4 → Nc3,True
+53,0.119101,4,e4 → Nf3 → cxd4 → Nc3,True
+53,0.119101,4,e4 → d4 → Nxd4 → Nc3,True
+53,0.119101,4,e4 → d4 → cxd4 → Nc3,True
+53,0.119101,4,e4 → c5 → Nf3 → d6,True
+53,0.119101,4,e4 → c5 → cxd4 → Nc3,True
+53,0.119101,4,e4 → c5 → Nxd4 → Nc3,True
+53,0.119101,4,e4 → cxd4 → Nxd4 → Nc3,True
+53,0.119101,4,c5 → Nf3 → cxd4 → Nc3,True
+53,0.119101,4,c5 → Nf3 → Nxd4 → Nc3,True
+53,0.119101,4,c5 → d4 → cxd4 → Nc3,True
+53,0.119101,4,c5 → d4 → Nxd4 → Nc3,True
+53,0.119101,4,c5 → cxd4 → Nxd4 → Nc3,True
+53,0.119101,3,d4 → Nxd4 → Nc3,True
+53,0.119101,3,d4 → cxd4 → Nc3,True
+53,0.119101,3,Nf6 → e6 → d5,True
+53,0.119101,3,c4 → e6 → Nf3,True
+53,0.119101,3,Nf3 → Nxd4 → Nc3,True
+53,0.119101,3,Nf3 → cxd4 → Nc3,True
+53,0.119101,3,e4 → Nxd4 → Nc3,True
+53,0.119101,3,e4 → c5 → Nc6,True
+53,0.119101,3,e4 → cxd4 → Nc3,True
+53,0.119101,3,c5 → cxd4 → Nc3,True
+53,0.119101,3,c5 → Nxd4 → Nc3,True
+53,0.119101,3,cxd4 → Nxd4 → Nc3,True
+53,0.119101,2,d5 → c4,True
+53,0.119101,2,Nxd4 → Nc3,True
+53,0.119101,2,cxd4 → Nc3,True
+52,0.116854,4,Nf3 → d4 → Nf6 → Nc3,True
+52,0.116854,3,d4 → e6 → Nc3,True
+52,0.116854,3,c5 → d4 → Nf6,True
+52,0.116854,2,d5 → e6,True
+52,0.116854,2,Nc3 → d5,True
+51,0.114607,3,e4 → d6 → d4,True
+51,0.114607,2,Nf3 → g3,True
+51,0.114607,2,d6 → d4,True
+50,0.11236,4,e4 → Nf3 → Nf6 → Nc3,True
+50,0.11236,4,e4 → c5 → d4 → Nf6,True
+50,0.11236,3,d4 → e6 → Nf3,True
+50,0.11236,3,e4 → d6 → Nc3,True
+50,0.11236,3,d6 → Nf6 → Nc3,True
+50,0.11236,2,d4 → a6,True
+50,0.11236,2,Nf6 → g6,True
+49,0.110112,4,d4 → c4 → e6 → Nc3,True
+49,0.110112,4,e4 → Nf3 → d4 → Nf6,True
+49,0.110112,4,e4 → d4 → Nxd4 → Nf6,True
+49,0.110112,4,e4 → d4 → Nf6 → Nc3,True
+49,0.110112,4,e4 → d4 → cxd4 → Nf6,True
+49,0.110112,3,d4 → Nxd4 → Nf6,True
+49,0.110112,3,d4 → cxd4 → Nf6,True
+49,0.110112,3,e4 → Nxd4 → Nf6,True
+49,0.110112,3,e4 → cxd4 → Nf6,True
+49,0.110112,3,c5 → cxd4 → Nf6,True
+49,0.110112,2,Nf6 → Be7,True
+49,0.110112,2,Nxd4 → Nf6,True
+49,0.110112,2,cxd4 → Nf6,True
+48,0.107865,5,e4 → Nf3 → Nc6 → Bb5 → Nf6,True
+48,0.107865,5,e4 → d4 → cxd4 → Nxd4 → Nf6,True
+48,0.107865,5,e4 → c5 → Nf3 → d4 → Nf6,True
+48,0.107865,5,e4 → c5 → cxd4 → Nxd4 → Nf6,True
+48,0.107865,4,d4 → c4 → e6 → Nf3,True
+48,0.107865,4,d4 → cxd4 → Nxd4 → Nf6,True
+48,0.107865,4,Nf3 → Nc6 → Bb5 → Nf6,True
+48,0.107865,4,Nf3 → d4 → Nxd4 → Nf6,True
+48,0.107865,4,Nf3 → d4 → cxd4 → Nf6,True
+48,0.107865,4,e4 → Nf3 → Nc6 → O-O,True
+48,0.107865,4,e4 → Nf3 → Bb5 → Nf6,True
+48,0.107865,4,e4 → Nc6 → Bb5 → Nf6,True
+48,0.107865,4,e4 → c5 → cxd4 → Nf6,True
+48,0.107865,4,e4 → c5 → Nxd4 → Nf6,True
+48,0.107865,4,e4 → cxd4 → Nxd4 → Nf6,True
+48,0.107865,4,c5 → Nf3 → d4 → Nf6,True
+48,0.107865,4,c5 → d4 → cxd4 → Nf6,True
+48,0.107865,4,c5 → cxd4 → Nxd4 → Nf6,True
+48,0.107865,3,d4 → e6 → d5,True
+48,0.107865,3,Nf3 → Nc6 → O-O,True
+48,0.107865,3,Nf3 → Bb5 → Nf6,True
+48,0.107865,3,Nf3 → Nxd4 → Nf6,True
+48,0.107865,3,Nf3 → d6 → d4,True
+48,0.107865,3,Nf3 → d6 → Nf6,True
+48,0.107865,3,Nf3 → cxd4 → Nf6,True
+48,0.107865,3,e4 → Nc6 → O-O,True
+48,0.107865,3,e4 → Bb5 → Nf6,True
+48,0.107865,3,Nc6 → Bb5 → Nf6,True
+48,0.107865,3,c5 → Nf3 → Nc6,True
+48,0.107865,3,c5 → d6 → Nf6,True
+48,0.107865,3,c5 → Nxd4 → Nf6,True
+48,0.107865,3,cxd4 → Nxd4 → Nf6,True
+48,0.107865,2,Nf6 → a6,True
+48,0.107865,2,c4 → O-O,True
+48,0.107865,2,Nc6 → O-O,True
+48,0.107865,2,Bb5 → Nf6,True
+47,0.105618,6,e4 → c5 → d4 → cxd4 → Nxd4 → Nf6,True
+47,0.105618,5,Nf3 → d4 → cxd4 → Nxd4 → Nf6,True
+47,0.105618,5,e4 → Nf3 → d4 → Nxd4 → Nf6,True
+47,0.105618,5,e4 → c5 → d4 → cxd4 → Nf6,True
+47,0.105618,5,e4 → c5 → d4 → Nxd4 → Nf6,True
+47,0.105618,5,c5 → d4 → cxd4 → Nxd4 → Nf6,True
+47,0.105618,4,d4 → Nf6 → c4 → Nf3,True
+47,0.105618,4,Nf3 → cxd4 → Nxd4 → Nf6,True
+47,0.105618,4,e4 → Nf3 → Nxd4 → Nf6,True
+47,0.105618,4,e4 → Nf3 → d6 → d4,True
+47,0.105618,4,e4 → Nf3 → d6 → Nf6,True
+47,0.105618,4,e4 → c5 → Nf3 → Nc6,True
+47,0.105618,4,e4 → c5 → d6 → Nf6,True
+47,0.105618,4,c5 → d4 → Nxd4 → Nf6,True
+47,0.105618,3,d4 → d5 → Nf3,True
+47,0.105618,3,d4 → d5 → Nf6,True
+47,0.105618,3,Nf6 → c4 → Nf3,True
+47,0.105618,3,Nf6 → e6 → Nc3,True
+47,0.105618,3,c5 → Nf6 → Nc3,True
+47,0.105618,2,d4 → O-O,True
+47,0.105618,2,d4 → g6,True
+47,0.105618,2,Nf6 → Bg2,True
+46,0.103371,7,e4 → c5 → Nf3 → d4 → cxd4 → Nxd4 → Nf6,True
+46,0.103371,6,e4 → Nf3 → d4 → cxd4 → Nxd4 → Nf6,True
+46,0.103371,6,e4 → c5 → Nf3 → d4 → cxd4 → Nf6,True
+46,0.103371,6,e4 → c5 → Nf3 → d4 → Nxd4 → Nf6,True
+46,0.103371,6,e4 → c5 → Nf3 → d4 → Nf6 → Nc3,True
+46,0.103371,6,e4 → c5 → Nf3 → cxd4 → Nxd4 → Nf6,True
+46,0.103371,6,c5 → Nf3 → d4 → cxd4 → Nxd4 → Nf6,True
+46,0.103371,5,e4 → e5 → Nf3 → Nc6 → Bb5,True
+46,0.103371,5,e4 → Nf3 → d4 → Nf6 → Nc3,True
+46,0.103371,5,e4 → Nf3 → d4 → cxd4 → Nf6,True
+46,0.103371,5,e4 → Nf3 → cxd4 → Nxd4 → Nf6,True
+46,0.103371,5,e4 → c5 → Nf3 → cxd4 → Nf6,True
+46,0.103371,5,e4 → c5 → Nf3 → Nxd4 → Nf6,True
+46,0.103371,5,e4 → c5 → Nf3 → Nf6 → Nc3,True
+46,0.103371,5,e4 → c5 → d4 → Nf6 → Nc3,True
+46,0.103371,5,c5 → Nf3 → d4 → cxd4 → Nf6,True
+46,0.103371,5,c5 → Nf3 → d4 → Nxd4 → Nf6,True
+46,0.103371,5,c5 → Nf3 → d4 → Nf6 → Nc3,True
+46,0.103371,5,c5 → Nf3 → cxd4 → Nxd4 → Nf6,True
+46,0.103371,4,d4 → Nf6 → e6 → d5,True
+46,0.103371,4,Nf6 → c4 → e6 → d5,True
+46,0.103371,4,Nf3 → d6 → d4 → cxd4,True
+46,0.103371,4,e4 → e5 → Nf3 → Bb5,True
+46,0.103371,4,e4 → e5 → Nc6 → Bb5,True
+46,0.103371,4,e4 → Nf3 → cxd4 → Nf6,True
+46,0.103371,4,e4 → c5 → Nf6 → Nc3,True
+46,0.103371,4,e4 → d6 → d4 → cxd4,True
+46,0.103371,4,e4 → d6 → d4 → Nf6,True
+46,0.103371,4,e4 → d6 → Nf6 → Nc3,True
+46,0.103371,4,e5 → Nf3 → Nc6 → Bb5,True
+46,0.103371,4,c5 → Nf3 → cxd4 → Nf6,True
+46,0.103371,4,c5 → Nf3 → Nxd4 → Nf6,True
+46,0.103371,4,c5 → Nf3 → Nf6 → Nc3,True
+46,0.103371,4,c5 → d6 → d4 → cxd4,True
+46,0.103371,4,c5 → d4 → Nf6 → Nc3,True
+46,0.103371,3,c4 → Nc3 → d5,True
+46,0.103371,3,Nf3 → d6 → cxd4,True
+46,0.103371,3,Nf3 → d6 → Nc3,True
+46,0.103371,3,e4 → e5 → Bb5,True
+46,0.103371,3,e4 → d6 → cxd4,True
+46,0.103371,3,e5 → Nf3 → Bb5,True
+46,0.103371,3,e5 → Nc6 → Bb5,True
+46,0.103371,3,c5 → d6 → d4,True
+46,0.103371,3,c5 → d6 → cxd4,True
+46,0.103371,3,d6 → d4 → cxd4,True
+46,0.103371,3,d6 → d4 → Nf6,True
+46,0.103371,2,e5 → Bb5,True
+46,0.103371,2,d6 → cxd4,True
+45,0.101124,8,e4 → c5 → Nf3 → d4 → cxd4 → Nxd4 → Nf6 → Nc3,True
+45,0.101124,7,e4 → Nf3 → d4 → cxd4 → Nxd4 → Nf6 → Nc3,True
+45,0.101124,7,e4 → c5 → Nf3 → d4 → cxd4 → Nf6 → Nc3,True
+45,0.101124,7,e4 → c5 → Nf3 → d4 → Nxd4 → Nf6 → Nc3,True
+45,0.101124,7,e4 → c5 → Nf3 → cxd4 → Nxd4 → Nf6 → Nc3,True
+45,0.101124,7,e4 → c5 → d4 → cxd4 → Nxd4 → Nf6 → Nc3,True
+45,0.101124,7,c5 → Nf3 → d4 → cxd4 → Nxd4 → Nf6 → Nc3,True
+45,0.101124,6,Nf3 → d4 → cxd4 → Nxd4 → Nf6 → Nc3,True
+45,0.101124,6,e4 → Nf3 → d4 → Nxd4 → Nf6 → Nc3,True
+45,0.101124,6,e4 → Nf3 → d4 → cxd4 → Nf6 → Nc3,True
+45,0.101124,6,e4 → Nf3 → cxd4 → Nxd4 → Nf6 → Nc3,True
+45,0.101124,6,e4 → d4 → cxd4 → Nxd4 → Nf6 → Nc3,True
+45,0.101124,6,e4 → c5 → Nf3 → d6 → d4 → cxd4,True
+45,0.101124,6,e4 → c5 → Nf3 → cxd4 → Nf6 → Nc3,True
+45,0.101124,6,e4 → c5 → Nf3 → Nxd4 → Nf6 → Nc3,True
+45,0.101124,6,e4 → c5 → d4 → cxd4 → Nf6 → Nc3,True
+45,0.101124,6,e4 → c5 → d4 → Nxd4 → Nf6 → Nc3,True
+45,0.101124,6,e4 → c5 → cxd4 → Nxd4 → Nf6 → Nc3,True
+45,0.101124,6,c5 → Nf3 → d4 → cxd4 → Nf6 → Nc3,True
+45,0.101124,6,c5 → Nf3 → d4 → Nxd4 → Nf6 → Nc3,True
+45,0.101124,6,c5 → Nf3 → cxd4 → Nxd4 → Nf6 → Nc3,True
+45,0.101124,6,c5 → d4 → cxd4 → Nxd4 → Nf6 → Nc3,True
+45,0.101124,5,d4 → cxd4 → Nxd4 → Nf6 → Nc3,True
+45,0.101124,5,Nf3 → d4 → Nxd4 → Nf6 → Nc3,True
+45,0.101124,5,Nf3 → d4 → cxd4 → Nf6 → Nc3,True
+45,0.101124,5,Nf3 → cxd4 → Nxd4 → Nf6 → Nc3,True
+45,0.101124,5,e4 → Nf3 → Nc6 → Bb5 → O-O,True
+45,0.101124,5,e4 → Nf3 → Nxd4 → Nf6 → Nc3,True
+45,0.101124,5,e4 → Nf3 → d6 → d4 → cxd4,True
+45,0.101124,5,e4 → Nf3 → cxd4 → Nf6 → Nc3,True
+45,0.101124,5,e4 → d4 → Nxd4 → Nf6 → Nc3,True
+45,0.101124,5,e4 → d4 → cxd4 → Nf6 → Nc3,True
+45,0.101124,5,e4 → c5 → Nf3 → d6 → d4,True
+45,0.101124,5,e4 → c5 → Nf3 → d6 → cxd4,True
+45,0.101124,5,e4 → c5 → Nf3 → d6 → Nf6,True
+45,0.101124,5,e4 → c5 → d6 → d4 → cxd4,True
+45,0.101124,5,e4 → c5 → cxd4 → Nf6 → Nc3,True
+45,0.101124,5,e4 → c5 → Nxd4 → Nf6 → Nc3,True
+45,0.101124,5,e4 → cxd4 → Nxd4 → Nf6 → Nc3,True
+45,0.101124,5,c5 → Nf3 → d6 → d4 → cxd4,True
+45,0.101124,5,c5 → Nf3 → cxd4 → Nf6 → Nc3,True
+45,0.101124,5,c5 → Nf3 → Nxd4 → Nf6 → Nc3,True
+45,0.101124,5,c5 → d4 → cxd4 → Nf6 → Nc3,True
+45,0.101124,5,c5 → d4 → Nxd4 → Nf6 → Nc3,True
+45,0.101124,5,c5 → cxd4 → Nxd4 → Nf6 → Nc3,True
+45,0.101124,4,d4 → Nxd4 → Nf6 → Nc3,True
+45,0.101124,4,d4 → cxd4 → Nf6 → Nc3,True
+45,0.101124,4,Nf6 → c4 → e6 → Nc3,True
+45,0.101124,4,Nf3 → Nc6 → Bb5 → O-O,True
+45,0.101124,4,Nf3 → Nxd4 → Nf6 → Nc3,True
+45,0.101124,4,Nf3 → cxd4 → Nf6 → Nc3,True
+45,0.101124,4,e4 → Nf3 → Bb5 → O-O,True
+45,0.101124,4,e4 → Nf3 → d6 → cxd4,True
+45,0.101124,4,e4 → Nc6 → Bb5 → O-O,True
+45,0.101124,4,e4 → Nxd4 → Nf6 → Nc3,True
+45,0.101124,4,e4 → c5 → d6 → d4,True
+45,0.101124,4,e4 → c5 → d6 → cxd4,True
+45,0.101124,4,e4 → d6 → d4 → Nc3,True
+45,0.101124,4,e4 → cxd4 → Nf6 → Nc3,True
+45,0.101124,4,c5 → Nf3 → d6 → d4,True
+45,0.101124,4,c5 → Nf3 → d6 → cxd4,True
+45,0.101124,4,c5 → Nf3 → d6 → Nf6,True
+45,0.101124,4,c5 → cxd4 → Nf6 → Nc3,True
+45,0.101124,4,c5 → Nxd4 → Nf6 → Nc3,True
+45,0.101124,4,cxd4 → Nxd4 → Nf6 → Nc3,True
+45,0.101124,3,Nf3 → Bb5 → O-O,True
+45,0.101124,3,e4 → Bb5 → O-O,True
+45,0.101124,3,Nc6 → Bb5 → O-O,True
+45,0.101124,3,Nxd4 → Nf6 → Nc3,True
+45,0.101124,3,d6 → d4 → Nc3,True
+45,0.101124,3,cxd4 → Nf6 → Nc3,True
+45,0.101124,2,d4 → c5,True
+45,0.101124,2,d4 → Bg7,True
+45,0.101124,2,Bb5 → O-O,True
+44,0.098876,6,e4 → e5 → Nf3 → Nc6 → Bb5 → Nf6,True
+44,0.098876,5,e4 → e5 → Nf3 → Bb5 → Nf6,True
+44,0.098876,5,e4 → e5 → Nc6 → Bb5 → Nf6,True
+44,0.098876,5,e4 → d6 → d4 → Nf6 → Nc3,True
+44,0.098876,5,e5 → Nf3 → Nc6 → Bb5 → Nf6,True
+44,0.098876,4,d4 → c4 → e6 → d5,True
+44,0.098876,4,Nf3 → d6 → d4 → Nf6,True
+44,0.098876,4,e4 → e5 → Bb5 → Nf6,True
+44,0.098876,4,e4 → Nf3 → d6 → Nc3,True
+44,0.098876,4,e4 → d6 → d4 → Nxd4,True
+44,0.098876,4,e5 → Nf3 → Bb5 → Nf6,True
+44,0.098876,4,e5 → Nc6 → Bb5 → Nf6,True
+44,0.098876,4,c5 → d6 → d4 → Nf6,True
+44,0.098876,4,d6 → d4 → Nf6 → Nc3,True
+44,0.098876,3,d4 → Nf6 → O-O,True
+44,0.098876,3,d4 → Nf6 → a6,True
+44,0.098876,3,e4 → d6 → Nxd4,True
+44,0.098876,3,e5 → Bb5 → Nf6,True
+44,0.098876,3,c5 → d6 → Nc3,True
+44,0.098876,3,d6 → d4 → Nxd4,True
+44,0.098876,2,d4 → g3,True
+44,0.098876,2,e6 → d4,True
+44,0.098876,2,d6 → Nxd4,True
+43,0.096629,7,e4 → c5 → Nf3 → d6 → d4 → cxd4 → Nxd4,True
+43,0.096629,6,e4 → Nf3 → d6 → d4 → cxd4 → Nxd4,True
+43,0.096629,6,e4 → c5 → Nf3 → d6 → d4 → Nxd4,True
+43,0.096629,6,e4 → c5 → Nf3 → d6 → d4 → Nf6,True
+43,0.096629,6,e4 → c5 → Nf3 → d6 → cxd4 → Nxd4,True
+43,0.096629,6,e4 → c5 → d6 → d4 → cxd4 → Nxd4,True
+43,0.096629,6,c5 → Nf3 → d6 → d4 → cxd4 → Nxd4,True
+43,0.096629,5,d4 → Nf6 → c4 → e6 → d5,True
+43,0.096629,5,Nf3 → d6 → d4 → cxd4 → Nxd4,True
+43,0.096629,5,Nf3 → d6 → d4 → cxd4 → Nf6,True
+43,0.096629,5,e4 → Nf3 → d6 → d4 → Nxd4,True
+43,0.096629,5,e4 → Nf3 → d6 → d4 → Nf6,True
+43,0.096629,5,e4 → Nf3 → d6 → cxd4 → Nxd4,True
+43,0.096629,5,e4 → Nf3 → d6 → Nf6 → Nc3,True
+43,0.096629,5,e4 → c5 → Nf3 → d6 → Nxd4,True
+43,0.096629,5,e4 → c5 → d6 → d4 → Nxd4,True
+43,0.096629,5,e4 → c5 → d6 → d4 → Nf6,True
+43,0.096629,5,e4 → c5 → d6 → cxd4 → Nxd4,True
+43,0.096629,5,e4 → d6 → d4 → cxd4 → Nxd4,True
+43,0.096629,5,e4 → d6 → d4 → cxd4 → Nf6,True
+43,0.096629,5,c5 → Nf3 → d6 → d4 → Nxd4,True
+43,0.096629,5,c5 → Nf3 → d6 → d4 → Nf6,True
+43,0.096629,5,c5 → Nf3 → d6 → cxd4 → Nxd4,True
+43,0.096629,5,c5 → d6 → d4 → cxd4 → Nxd4,True
+43,0.096629,5,c5 → d6 → d4 → cxd4 → Nf6,True
+43,0.096629,4,Nf3 → d6 → d4 → Nxd4,True
+43,0.096629,4,Nf3 → d6 → cxd4 → Nxd4,True
+43,0.096629,4,Nf3 → d6 → cxd4 → Nf6,True
+43,0.096629,4,Nf3 → d6 → Nf6 → Nc3,True
+43,0.096629,4,e4 → Nf3 → d6 → Nxd4,True
+43,0.096629,4,e4 → c5 → d6 → Nxd4,True
+43,0.096629,4,e4 → c5 → d6 → Nc3,True
+43,0.096629,4,e4 → d6 → cxd4 → Nxd4,True
+43,0.096629,4,e4 → d6 → cxd4 → Nf6,True
+43,0.096629,4,c5 → Nf3 → d6 → Nxd4,True
+43,0.096629,4,c5 → d6 → d4 → Nxd4,True
+43,0.096629,4,c5 → d6 → cxd4 → Nxd4,True
+43,0.096629,4,c5 → d6 → cxd4 → Nf6,True
+43,0.096629,4,d6 → d4 → cxd4 → Nxd4,True
+43,0.096629,4,d6 → d4 → cxd4 → Nf6,True
+43,0.096629,3,Nf6 → c4 → O-O,True
+43,0.096629,3,Nf3 → d6 → Nxd4,True
+43,0.096629,3,e4 → Nf6 → O-O,True
+43,0.096629,3,c5 → d6 → Nxd4,True
+43,0.096629,3,d6 → cxd4 → Nxd4,True
+43,0.096629,3,d6 → cxd4 → Nf6,True
+43,0.096629,2,Nf6 → d6,True
+42,0.094382,8,e4 → c5 → Nf3 → d6 → d4 → cxd4 → Nxd4 → Nf6,True
+42,0.094382,7,e4 → Nf3 → d6 → d4 → cxd4 → Nxd4 → Nf6,True
+42,0.094382,7,e4 → c5 → Nf3 → d6 → d4 → cxd4 → Nf6,True
+42,0.094382,7,e4 → c5 → Nf3 → d6 → d4 → Nxd4 → Nf6,True
+42,0.094382,7,e4 → c5 → Nf3 → d6 → d4 → Nf6 → Nc3,True
+42,0.094382,7,e4 → c5 → Nf3 → d6 → cxd4 → Nxd4 → Nf6,True
+42,0.094382,7,e4 → c5 → d6 → d4 → cxd4 → Nxd4 → Nf6,True
+42,0.094382,7,c5 → Nf3 → d6 → d4 → cxd4 → Nxd4 → Nf6,True
+42,0.094382,6,Nf3 → d6 → d4 → cxd4 → Nxd4 → Nf6,True
+42,0.094382,6,e4 → Nf3 → d6 → d4 → cxd4 → Nf6,True
+42,0.094382,6,e4 → Nf3 → d6 → d4 → Nxd4 → Nf6,True
+42,0.094382,6,e4 → Nf3 → d6 → d4 → Nf6 → Nc3,True
+42,0.094382,6,e4 → Nf3 → d6 → cxd4 → Nxd4 → Nf6,True
+42,0.094382,6,e4 → c5 → Nf3 → d6 → d4 → Nc3,True
+42,0.094382,6,e4 → c5 → Nf3 → d6 → cxd4 → Nf6,True
+42,0.094382,6,e4 → c5 → Nf3 → d6 → Nxd4 → Nf6,True
+42,0.094382,6,e4 → c5 → Nf3 → d6 → Nf6 → Nc3,True
+42,0.094382,6,e4 → c5 → d6 → d4 → cxd4 → Nf6,True
+42,0.094382,6,e4 → c5 → d6 → d4 → Nxd4 → Nf6,True
+42,0.094382,6,e4 → c5 → d6 → d4 → Nf6 → Nc3,True
+42,0.094382,6,e4 → c5 → d6 → cxd4 → Nxd4 → Nf6,True
+42,0.094382,6,e4 → d6 → d4 → cxd4 → Nxd4 → Nf6,True
+42,0.094382,6,c5 → Nf3 → d6 → d4 → cxd4 → Nf6,True
+42,0.094382,6,c5 → Nf3 → d6 → d4 → Nxd4 → Nf6,True
+42,0.094382,6,c5 → Nf3 → d6 → d4 → Nf6 → Nc3,True
+42,0.094382,6,c5 → Nf3 → d6 → cxd4 → Nxd4 → Nf6,True
+42,0.094382,6,c5 → d6 → d4 → cxd4 → Nxd4 → Nf6,True
+42,0.094382,5,Nf3 → d6 → d4 → Nxd4 → Nf6,True
+42,0.094382,5,Nf3 → d6 → d4 → Nf6 → Nc3,True
+42,0.094382,5,Nf3 → d6 → cxd4 → Nxd4 → Nf6,True
+42,0.094382,5,e4 → Nf3 → d6 → d4 → Nc3,True
+42,0.094382,5,e4 → Nf3 → d6 → cxd4 → Nf6,True
+42,0.094382,5,e4 → Nf3 → d6 → Nxd4 → Nf6,True
+42,0.094382,5,e4 → c5 → Nf3 → d6 → Nc3,True
+42,0.094382,5,e4 → c5 → d6 → d4 → Nc3,True
+42,0.094382,5,e4 → c5 → d6 → cxd4 → Nf6,True
+42,0.094382,5,e4 → c5 → d6 → Nxd4 → Nf6,True
+42,0.094382,5,e4 → c5 → d6 → Nf6 → Nc3,True
+42,0.094382,5,e4 → d6 → d4 → Nxd4 → Nf6,True
+42,0.094382,5,e4 → d6 → cxd4 → Nxd4 → Nf6,True
+42,0.094382,5,c5 → Nf3 → d6 → d4 → Nc3,True
+42,0.094382,5,c5 → Nf3 → d6 → cxd4 → Nf6,True
+42,0.094382,5,c5 → Nf3 → d6 → Nxd4 → Nf6,True
+42,0.094382,5,c5 → Nf3 → d6 → Nf6 → Nc3,True
+42,0.094382,5,c5 → d6 → d4 → Nxd4 → Nf6,True
+42,0.094382,5,c5 → d6 → d4 → Nf6 → Nc3,True
+42,0.094382,5,c5 → d6 → cxd4 → Nxd4 → Nf6,True
+42,0.094382,5,d6 → d4 → cxd4 → Nxd4 → Nf6,True
+42,0.094382,4,d4 → Nf6 → e6 → Nc3,True
+42,0.094382,4,Nf3 → d6 → d4 → Nc3,True
+42,0.094382,4,Nf3 → d6 → Nxd4 → Nf6,True
+42,0.094382,4,e4 → d6 → Nxd4 → Nf6,True
+42,0.094382,4,c5 → Nf3 → d6 → Nc3,True
+42,0.094382,4,c5 → d6 → d4 → Nc3,True
+42,0.094382,4,c5 → d6 → Nxd4 → Nf6,True
+42,0.094382,4,c5 → d6 → Nf6 → Nc3,True
+42,0.094382,4,d6 → d4 → Nxd4 → Nf6,True
+42,0.094382,4,d6 → cxd4 → Nxd4 → Nf6,True
+42,0.094382,3,d6 → Nxd4 → Nf6,True
+42,0.094382,2,Nf6 → e3,True
+42,0.094382,2,Nf3 → Be7,True
+42,0.094382,2,e4 → e6,True
+41,0.092135,9,e4 → c5 → Nf3 → d6 → d4 → cxd4 → Nxd4 → Nf6 → Nc3,True
+41,0.092135,8,e4 → Nf3 → d6 → d4 → cxd4 → Nxd4 → Nf6 → Nc3,True
+41,0.092135,8,e4 → c5 → Nf3 → d6 → d4 → cxd4 → Nxd4 → Nc3,True
+41,0.092135,8,e4 → c5 → Nf3 → d6 → d4 → cxd4 → Nf6 → Nc3,True
+41,0.092135,8,e4 → c5 → Nf3 → d6 → d4 → Nxd4 → Nf6 → Nc3,True
+41,0.092135,8,e4 → c5 → Nf3 → d6 → cxd4 → Nxd4 → Nf6 → Nc3,True
+41,0.092135,8,e4 → c5 → d6 → d4 → cxd4 → Nxd4 → Nf6 → Nc3,True
+41,0.092135,8,c5 → Nf3 → d6 → d4 → cxd4 → Nxd4 → Nf6 → Nc3,True
+41,0.092135,7,Nf3 → d6 → d4 → cxd4 → Nxd4 → Nf6 → Nc3,True
+41,0.092135,7,e4 → Nf3 → d6 → d4 → cxd4 → Nxd4 → Nc3,True
+41,0.092135,7,e4 → Nf3 → d6 → d4 → cxd4 → Nf6 → Nc3,True
+41,0.092135,7,e4 → Nf3 → d6 → d4 → Nxd4 → Nf6 → Nc3,True
+41,0.092135,7,e4 → Nf3 → d6 → cxd4 → Nxd4 → Nf6 → Nc3,True
+41,0.092135,7,e4 → c5 → Nf3 → d6 → d4 → cxd4 → Nc3,True
+41,0.092135,7,e4 → c5 → Nf3 → d6 → d4 → Nxd4 → Nc3,True
+41,0.092135,7,e4 → c5 → Nf3 → d6 → cxd4 → Nxd4 → Nc3,True
+41,0.092135,7,e4 → c5 → Nf3 → d6 → cxd4 → Nf6 → Nc3,True
+41,0.092135,7,e4 → c5 → Nf3 → d6 → Nxd4 → Nf6 → Nc3,True
+41,0.092135,7,e4 → c5 → d6 → d4 → cxd4 → Nxd4 → Nc3,True
+41,0.092135,7,e4 → c5 → d6 → d4 → cxd4 → Nf6 → Nc3,True
+41,0.092135,7,e4 → c5 → d6 → d4 → Nxd4 → Nf6 → Nc3,True
+41,0.092135,7,e4 → c5 → d6 → cxd4 → Nxd4 → Nf6 → Nc3,True
+41,0.092135,7,e4 → d6 → d4 → cxd4 → Nxd4 → Nf6 → Nc3,True
+41,0.092135,7,c5 → Nf3 → d6 → d4 → cxd4 → Nxd4 → Nc3,True
+41,0.092135,7,c5 → Nf3 → d6 → d4 → cxd4 → Nf6 → Nc3,True
+41,0.092135,7,c5 → Nf3 → d6 → d4 → Nxd4 → Nf6 → Nc3,True
+41,0.092135,7,c5 → Nf3 → d6 → cxd4 → Nxd4 → Nf6 → Nc3,True
+41,0.092135,7,c5 → d6 → d4 → cxd4 → Nxd4 → Nf6 → Nc3,True
+41,0.092135,6,Nf3 → d6 → d4 → cxd4 → Nxd4 → Nc3,True
+41,0.092135,6,Nf3 → d6 → d4 → cxd4 → Nf6 → Nc3,True
+41,0.092135,6,Nf3 → d6 → d4 → Nxd4 → Nf6 → Nc3,True
+41,0.092135,6,Nf3 → d6 → cxd4 → Nxd4 → Nf6 → Nc3,True
+41,0.092135,6,e4 → Nf3 → d6 → d4 → cxd4 → Nc3,True
+41,0.092135,6,e4 → Nf3 → d6 → d4 → Nxd4 → Nc3,True
+41,0.092135,6,e4 → Nf3 → d6 → cxd4 → Nxd4 → Nc3,True
+41,0.092135,6,e4 → Nf3 → d6 → cxd4 → Nf6 → Nc3,True
+41,0.092135,6,e4 → Nf3 → d6 → Nxd4 → Nf6 → Nc3,True
+41,0.092135,6,e4 → c5 → Nf3 → d6 → cxd4 → Nc3,True
+41,0.092135,6,e4 → c5 → Nf3 → d6 → Nxd4 → Nc3,True
+41,0.092135,6,e4 → c5 → d6 → d4 → cxd4 → Nc3,True
+41,0.092135,6,e4 → c5 → d6 → d4 → Nxd4 → Nc3,True
+41,0.092135,6,e4 → c5 → d6 → cxd4 → Nxd4 → Nc3,True
+41,0.092135,6,e4 → c5 → d6 → cxd4 → Nf6 → Nc3,True
+41,0.092135,6,e4 → c5 → d6 → Nxd4 → Nf6 → Nc3,True
+41,0.092135,6,e4 → d6 → d4 → cxd4 → Nxd4 → Nc3,True
+41,0.092135,6,e4 → d6 → d4 → cxd4 → Nf6 → Nc3,True
+41,0.092135,6,e4 → d6 → d4 → Nxd4 → Nf6 → Nc3,True
+41,0.092135,6,e4 → d6 → cxd4 → Nxd4 → Nf6 → Nc3,True
+41,0.092135,6,c5 → Nf3 → d6 → d4 → cxd4 → Nc3,True
+41,0.092135,6,c5 → Nf3 → d6 → d4 → Nxd4 → Nc3,True
+41,0.092135,6,c5 → Nf3 → d6 → cxd4 → Nxd4 → Nc3,True
+41,0.092135,6,c5 → Nf3 → d6 → cxd4 → Nf6 → Nc3,True
+41,0.092135,6,c5 → Nf3 → d6 → Nxd4 → Nf6 → Nc3,True
+41,0.092135,6,c5 → d6 → d4 → cxd4 → Nxd4 → Nc3,True
+41,0.092135,6,c5 → d6 → d4 → cxd4 → Nf6 → Nc3,True
+41,0.092135,6,c5 → d6 → d4 → Nxd4 → Nf6 → Nc3,True
+41,0.092135,6,c5 → d6 → cxd4 → Nxd4 → Nf6 → Nc3,True
+41,0.092135,6,d6 → d4 → cxd4 → Nxd4 → Nf6 → Nc3,True
+41,0.092135,5,Nf3 → d6 → d4 → cxd4 → Nc3,True
+41,0.092135,5,Nf3 → d6 → d4 → Nxd4 → Nc3,True
+41,0.092135,5,Nf3 → d6 → cxd4 → Nxd4 → Nc3,True
+41,0.092135,5,Nf3 → d6 → cxd4 → Nf6 → Nc3,True
+41,0.092135,5,Nf3 → d6 → Nxd4 → Nf6 → Nc3,True
+41,0.092135,5,e4 → Nf3 → d6 → cxd4 → Nc3,True
+41,0.092135,5,e4 → Nf3 → d6 → Nxd4 → Nc3,True
+41,0.092135,5,e4 → c5 → d6 → cxd4 → Nc3,True
+41,0.092135,5,e4 → c5 → d6 → Nxd4 → Nc3,True
+41,0.092135,5,e4 → d6 → d4 → cxd4 → Nc3,True
+41,0.092135,5,e4 → d6 → d4 → Nxd4 → Nc3,True
+41,0.092135,5,e4 → d6 → cxd4 → Nxd4 → Nc3,True
+41,0.092135,5,e4 → d6 → cxd4 → Nf6 → Nc3,True
+41,0.092135,5,e4 → d6 → Nxd4 → Nf6 → Nc3,True
+41,0.092135,5,c5 → Nf3 → d6 → cxd4 → Nc3,True
+41,0.092135,5,c5 → Nf3 → d6 → Nxd4 → Nc3,True
+41,0.092135,5,c5 → d6 → d4 → cxd4 → Nc3,True
+41,0.092135,5,c5 → d6 → d4 → Nxd4 → Nc3,True
+41,0.092135,5,c5 → d6 → cxd4 → Nxd4 → Nc3,True
+41,0.092135,5,c5 → d6 → cxd4 → Nf6 → Nc3,True
+41,0.092135,5,c5 → d6 → Nxd4 → Nf6 → Nc3,True
+41,0.092135,5,d6 → d4 → cxd4 → Nxd4 → Nc3,True
+41,0.092135,5,d6 → d4 → cxd4 → Nf6 → Nc3,True
+41,0.092135,5,d6 → d4 → Nxd4 → Nf6 → Nc3,True
+41,0.092135,5,d6 → cxd4 → Nxd4 → Nf6 → Nc3,True
+41,0.092135,4,Nf3 → d6 → cxd4 → Nc3,True
+41,0.092135,4,Nf3 → d6 → Nxd4 → Nc3,True
+41,0.092135,4,e4 → d6 → cxd4 → Nc3,True
+41,0.092135,4,e4 → d6 → Nxd4 → Nc3,True
+41,0.092135,4,c5 → d6 → cxd4 → Nc3,True
+41,0.092135,4,c5 → d6 → Nxd4 → Nc3,True
+41,0.092135,4,d6 → d4 → cxd4 → Nc3,True
+41,0.092135,4,d6 → d4 → Nxd4 → Nc3,True
+41,0.092135,4,d6 → cxd4 → Nxd4 → Nc3,True
+41,0.092135,4,d6 → cxd4 → Nf6 → Nc3,True
+41,0.092135,4,d6 → Nxd4 → Nf6 → Nc3,True
+41,0.092135,3,d4 → Nf6 → g3,True
+41,0.092135,3,c4 → g3 → Bg2,True
+41,0.092135,3,e4 → e5 → O-O,True
+41,0.092135,3,d6 → cxd4 → Nc3,True
+41,0.092135,3,d6 → Nxd4 → Nc3,True
+41,0.092135,2,c4 → g6,True
+41,0.092135,2,c4 → Bg2,True
+41,0.092135,2,Nc3 → a6,True
+41,0.092135,2,Nc3 → Bb4,True
+41,0.092135,2,e5 → O-O,True
+40,0.089888,5,d4 → Nf6 → c4 → e6 → Nc3,True
+40,0.089888,4,e4 → e5 → Nf3 → O-O,True
+40,0.089888,4,e4 → Nf3 → Nf6 → O-O,True
+40,0.089888,3,d4 → Nf6 → g6,True
+40,0.089888,3,e5 → Nf3 → O-O,True
+40,0.089888,2,d4 → Nc6,True
+39,0.08764,5,e4 → e5 → Nf3 → Nc6 → O-O,True
+39,0.08764,5,e4 → e5 → Nf3 → Nf6 → O-O,True
+39,0.08764,4,e4 → e5 → Nc6 → O-O,True
+39,0.08764,4,e4 → e5 → Nf6 → O-O,True
+39,0.08764,4,e5 → Nf3 → Nc6 → O-O,True
+39,0.08764,4,e5 → Nf3 → Nf6 → O-O,True
+39,0.08764,3,d4 → c4 → g3,True
+39,0.08764,3,d4 → d5 → c4,True
+39,0.08764,3,d4 → d5 → e6,True
+39,0.08764,3,Nf6 → g3 → Bg2,True
+39,0.08764,3,e5 → Nc6 → O-O,True
+39,0.08764,3,e5 → Nf6 → O-O,True
+39,0.08764,2,Nf6 → c5,True
+39,0.08764,2,e6 → Nf6,True
+39,0.08764,2,g3 → O-O,True
+38,0.085393,6,e4 → e5 → Nf3 → Nc6 → Nf6 → O-O,True
+38,0.085393,5,e4 → e5 → Nc6 → Nf6 → O-O,True
+38,0.085393,5,e4 → Nf3 → Nc6 → Nf6 → O-O,True
+38,0.085393,5,e5 → Nf3 → Nc6 → Nf6 → O-O,True
+38,0.085393,4,Nf3 → Nc6 → Nf6 → O-O,True
+38,0.085393,4,e4 → Nc6 → Nf6 → O-O,True
+38,0.085393,4,e5 → Nc6 → Nf6 → O-O,True
+38,0.085393,3,d4 → c4 → O-O,True
+38,0.085393,3,Nf6 → Nf3 → d5,True
+38,0.085393,3,Nf3 → Nf6 → a6,True
+38,0.085393,3,Nc6 → Nf6 → O-O,True
+38,0.085393,2,d4 → e3,True
+38,0.085393,2,d4 → Bb4,True
+38,0.085393,2,Nf6 → Bg7,True
+38,0.085393,2,e6 → g3,True
+38,0.085393,2,Nf3 → c4,True
+37,0.083146,3,d4 → Nc3 → a6,True
+37,0.083146,3,d4 → g6 → Bg7,True
+37,0.083146,2,d4 → c6,True
+37,0.083146,2,e6 → Bb4,True
+37,0.083146,2,Nf3 → Bg7,True
+37,0.083146,2,c5 → a6,True
+36,0.080899,6,e4 → e5 → Nf3 → Nc6 → Bb5 → O-O,True
+36,0.080899,5,e4 → e5 → Nf3 → Bb5 → O-O,True
+36,0.080899,5,e4 → e5 → Nc6 → Bb5 → O-O,True
+36,0.080899,5,e5 → Nf3 → Nc6 → Bb5 → O-O,True
+36,0.080899,4,e4 → e5 → Bb5 → O-O,True
+36,0.080899,4,e5 → Nf3 → Bb5 → O-O,True
+36,0.080899,4,e5 → Nc6 → Bb5 → O-O,True
+36,0.080899,3,d4 → Nc3 → Bb4,True
+36,0.080899,3,Nf6 → c4 → g3,True
+36,0.080899,3,Nf6 → Nc3 → d5,True
+36,0.080899,3,Nf6 → g6 → Bg7,True
+36,0.080899,3,e5 → Bb5 → O-O,True
+36,0.080899,2,d4 → d6,True
+36,0.080899,2,Nf6 → Bb4,True
+36,0.080899,2,c4 → c6,True
+36,0.080899,2,c4 → Bg7,True
+36,0.080899,2,e6 → O-O,True
+36,0.080899,2,d5 → c6,True
+36,0.080899,2,Nc6 → a6,True
+36,0.080899,2,d6 → a6,True
+35,0.078652,7,e4 → e5 → Nf3 → Nc6 → Bb5 → Nf6 → O-O,True
+35,0.078652,6,e4 → e5 → Nf3 → Bb5 → Nf6 → O-O,True
+35,0.078652,6,e4 → e5 → Nc6 → Bb5 → Nf6 → O-O,True
+35,0.078652,6,e4 → Nf3 → Nc6 → Bb5 → Nf6 → O-O,True
+35,0.078652,6,e5 → Nf3 → Nc6 → Bb5 → Nf6 → O-O,True
+35,0.078652,5,d4 → Nf6 → c4 → e6 → Nf3,True
+35,0.078652,5,Nf3 → Nc6 → Bb5 → Nf6 → O-O,True
+35,0.078652,5,e4 → e5 → Bb5 → Nf6 → O-O,True
+35,0.078652,5,e4 → Nf3 → Bb5 → Nf6 → O-O,True
+35,0.078652,5,e4 → Nc6 → Bb5 → Nf6 → O-O,True
+35,0.078652,5,e5 → Nf3 → Bb5 → Nf6 → O-O,True
+35,0.078652,5,e5 → Nc6 → Bb5 → Nf6 → O-O,True
+35,0.078652,4,d4 → Nf6 → c4 → O-O,True
+35,0.078652,4,d4 → Nf6 → e6 → Nf3,True
+35,0.078652,4,Nf6 → c4 → e6 → Nf3,True
+35,0.078652,4,Nf3 → Bb5 → Nf6 → O-O,True
+35,0.078652,4,e4 → Bb5 → Nf6 → O-O,True
+35,0.078652,4,e5 → Bb5 → Nf6 → O-O,True
+35,0.078652,4,Nc6 → Bb5 → Nf6 → O-O,True
+35,0.078652,3,d4 → Nf3 → Nc3,True
+35,0.078652,3,Nf6 → e6 → Nf3,True
+35,0.078652,3,Nf6 → Nc3 → a6,True
+35,0.078652,3,e6 → Nc3 → Bb4,True
+35,0.078652,3,d5 → c4 → e6,True
+35,0.078652,3,e4 → Nc6 → a6,True
+35,0.078652,3,e4 → d6 → a6,True
+35,0.078652,3,Bb5 → Nf6 → O-O,True
+35,0.078652,2,c4 → e3,True
+35,0.078652,2,e6 → c5,True
+35,0.078652,2,Nf3 → e3,True
+35,0.078652,2,Nf3 → Bg2,True
+35,0.078652,2,Nc3 → Nf6,True
+35,0.078652,2,g6 → Nc3,True
+34,0.076404,4,d4 → Nf6 → Nc3 → a6,True
+34,0.076404,4,e4 → Nf3 → Nc6 → a6,True
+34,0.076404,4,e4 → Nc6 → Bb5 → a6,True
+34,0.076404,4,e4 → c5 → Nf3 → a6,True
+34,0.076404,3,d4 → Nf6 → e3,True
+34,0.076404,3,d4 → Nf3 → d5,True
+34,0.076404,3,c4 → e6 → g3,True
+34,0.076404,3,Nf3 → Nc3 → a6,True
+34,0.076404,3,Nf3 → g3 → Bg2,True
+34,0.076404,3,Nf3 → Nc6 → a6,True
+34,0.076404,3,e4 → Bb5 → a6,True
+34,0.076404,3,e4 → c5 → a6,True
+34,0.076404,3,e5 → Nc6 → a6,True
+34,0.076404,3,Nc6 → Bb5 → a6,True
+34,0.076404,3,c5 → Nf3 → a6,True
+34,0.076404,2,d4 → e4,True
+34,0.076404,2,c4 → c5,True
+34,0.076404,2,d5 → e3,True
+34,0.076404,2,d5 → Bg2,True
+34,0.076404,2,Nc3 → Nf3,True
+34,0.076404,2,e4 → c3,True
+34,0.076404,2,e5 → a6,True
+34,0.076404,2,Bb5 → a6,True
+33,0.074157,5,e4 → e5 → Nf3 → Nc6 → a6,True
+33,0.074157,5,e4 → Nf3 → Nc6 → Bb5 → a6,True
+33,0.074157,4,d4 → Nf6 → c4 → g3,True
+33,0.074157,4,Nf3 → Nc6 → Bb5 → a6,True
+33,0.074157,4,Nf3 → Nf6 → Nc3 → a6,True
+33,0.074157,4,e4 → e5 → Nf3 → a6,True
+33,0.074157,4,e4 → e5 → Nc6 → a6,True
+33,0.074157,4,e4 → Nf3 → Bb5 → a6,True
+33,0.074157,4,e5 → Nf3 → Nc6 → a6,True
+33,0.074157,3,d4 → Nf3 → Nf6,True
+33,0.074157,3,c4 → Nf3 → d5,True
+33,0.074157,3,c4 → Nc3 → Bb4,True
+33,0.074157,3,Nf3 → Bb5 → a6,True
+33,0.074157,3,e4 → e5 → a6,True
+33,0.074157,3,e5 → Nf3 → a6,True
+33,0.074157,2,c4 → Bb4,True
+33,0.074157,2,Nf3 → g6,True
+33,0.074157,2,d5 → g3,True
+33,0.074157,2,d5 → cxd5,True
+33,0.074157,2,g6 → O-O,True
+32,0.07191,6,e4 → e5 → Nf3 → Nc6 → Bb5 → a6,True
+32,0.07191,5,e4 → e5 → Nf3 → Bb5 → a6,True
+32,0.07191,5,e4 → e5 → Nc6 → Bb5 → a6,True
+32,0.07191,5,e5 → Nf3 → Nc6 → Bb5 → a6,True
+32,0.07191,4,d4 → Nf6 → Nf3 → d5,True
+32,0.07191,4,e4 → e5 → Bb5 → a6,True
+32,0.07191,4,e4 → Nf3 → d6 → a6,True
+32,0.07191,4,e5 → Nf3 → Bb5 → a6,True
+32,0.07191,4,e5 → Nc6 → Bb5 → a6,True
+32,0.07191,3,d4 → c4 → g6,True
+32,0.07191,3,d4 → Nc3 → d5,True
+32,0.07191,3,Nf3 → a6 → Nf6,True
+32,0.07191,3,Nf3 → d6 → a6,True
+32,0.07191,3,g3 → Bg2 → O-O,True
+32,0.07191,3,e4 → d4 → d5,True
+32,0.07191,3,e4 → Nc3 → a6,True
+32,0.07191,3,e5 → Bb5 → a6,True
+32,0.07191,2,c4 → cxd5,True
+32,0.07191,2,Nc3 → O-O,True
+32,0.07191,2,a6 → Nf6,True
+32,0.07191,2,Bg2 → O-O,True
+31,0.069663,5,e4 → c5 → Nf3 → d6 → a6,True
+31,0.069663,4,d4 → Nf6 → c4 → g6,True
+31,0.069663,4,e4 → c5 → d6 → a6,True
+31,0.069663,4,c5 → Nf3 → d6 → a6,True
+31,0.069663,3,d4 → Nf6 → Bg7,True
+31,0.069663,3,d4 → Nf6 → Bb4,True
+31,0.069663,3,d4 → c4 → Nf6,True
+31,0.069663,3,d4 → e6 → Bb4,True
+31,0.069663,3,Nf6 → c4 → g6,True
+31,0.069663,3,Nf6 → e6 → O-O,True
+31,0.069663,3,Nf6 → e6 → Bb4,True
+31,0.069663,3,Nf6 → Nc3 → O-O,True
+31,0.069663,3,Nf6 → Nc3 → Bb4,True
+31,0.069663,3,c4 → g6 → Bg7,True
+31,0.069663,3,e4 → d4 → a6,True
+31,0.069663,3,c5 → d6 → a6,True
+31,0.069663,2,c4 → e4,True
+31,0.069663,2,e6 → Be7,True
+31,0.069663,2,Nf3 → c5,True
+31,0.069663,2,d5 → c5,True
+31,0.069663,2,Nc3 → Nc6,True
+30,0.067416,8,e4 → e5 → Nf3 → Nc6 → Bb5 → a6 → Ba4 → Nf6,True
+30,0.067416,7,e4 → e5 → Nf3 → Nc6 → Bb5 → a6 → Ba4,True
+30,0.067416,7,e4 → e5 → Nf3 → Nc6 → Bb5 → a6 → Nf6,True
+30,0.067416,7,e4 → e5 → Nf3 → Nc6 → Bb5 → Ba4 → Nf6,True
+30,0.067416,7,e4 → e5 → Nf3 → Nc6 → a6 → Ba4 → Nf6,True
+30,0.067416,7,e4 → e5 → Nf3 → Bb5 → a6 → Ba4 → Nf6,True
+30,0.067416,7,e4 → e5 → Nc6 → Bb5 → a6 → Ba4 → Nf6,True
+30,0.067416,7,e4 → Nf3 → Nc6 → Bb5 → a6 → Ba4 → Nf6,True
+30,0.067416,7,e5 → Nf3 → Nc6 → Bb5 → a6 → Ba4 → Nf6,True
+30,0.067416,6,Nf3 → Nc6 → Bb5 → a6 → Ba4 → Nf6,True
+30,0.067416,6,e4 → e5 → Nf3 → Nc6 → Bb5 → Ba4,True
+30,0.067416,6,e4 → e5 → Nf3 → Nc6 → a6 → Ba4,True
+30,0.067416,6,e4 → e5 → Nf3 → Nc6 → a6 → Nf6,True
+30,0.067416,6,e4 → e5 → Nf3 → Nc6 → Ba4 → Nf6,True
+30,0.067416,6,e4 → e5 → Nf3 → Bb5 → a6 → Ba4,True
+30,0.067416,6,e4 → e5 → Nf3 → Bb5 → a6 → Nf6,True
+30,0.067416,6,e4 → e5 → Nf3 → Bb5 → Ba4 → Nf6,True
+30,0.067416,6,e4 → e5 → Nf3 → a6 → Ba4 → Nf6,True
+30,0.067416,6,e4 → e5 → Nc6 → Bb5 → a6 → Ba4,True
+30,0.067416,6,e4 → e5 → Nc6 → Bb5 → a6 → Nf6,True
+30,0.067416,6,e4 → e5 → Nc6 → Bb5 → Ba4 → Nf6,True
+30,0.067416,6,e4 → e5 → Nc6 → a6 → Ba4 → Nf6,True
+30,0.067416,6,e4 → e5 → Bb5 → a6 → Ba4 → Nf6,True
+30,0.067416,6,e4 → Nf3 → Nc6 → Bb5 → a6 → Ba4,True
+30,0.067416,6,e4 → Nf3 → Nc6 → Bb5 → a6 → Nf6,True
+30,0.067416,6,e4 → Nf3 → Nc6 → Bb5 → Ba4 → Nf6,True
+30,0.067416,6,e4 → Nf3 → Nc6 → a6 → Ba4 → Nf6,True
+30,0.067416,6,e4 → Nf3 → Bb5 → a6 → Ba4 → Nf6,True
+30,0.067416,6,e4 → Nc6 → Bb5 → a6 → Ba4 → Nf6,True
+30,0.067416,6,e5 → Nf3 → Nc6 → Bb5 → a6 → Ba4,True
+30,0.067416,6,e5 → Nf3 → Nc6 → Bb5 → a6 → Nf6,True
+30,0.067416,6,e5 → Nf3 → Nc6 → Bb5 → Ba4 → Nf6,True
+30,0.067416,6,e5 → Nf3 → Nc6 → a6 → Ba4 → Nf6,True
+30,0.067416,6,e5 → Nf3 → Bb5 → a6 → Ba4 → Nf6,True
+30,0.067416,6,e5 → Nc6 → Bb5 → a6 → Ba4 → Nf6,True
+30,0.067416,5,Nf3 → Nc6 → Bb5 → a6 → Ba4,True
+30,0.067416,5,Nf3 → Nc6 → Bb5 → a6 → Nf6,True
+30,0.067416,5,Nf3 → Nc6 → Bb5 → Ba4 → Nf6,True
+30,0.067416,5,Nf3 → Nc6 → a6 → Ba4 → Nf6,True
+30,0.067416,5,Nf3 → Bb5 → a6 → Ba4 → Nf6,True
+30,0.067416,5,e4 → e5 → Nf3 → Nc6 → Ba4,True
+30,0.067416,5,e4 → e5 → Nf3 → Bb5 → Ba4,True
+30,0.067416,5,e4 → e5 → Nf3 → a6 → Ba4,True
+30,0.067416,5,e4 → e5 → Nf3 → a6 → Nf6,True
+30,0.067416,5,e4 → e5 → Nf3 → Ba4 → Nf6,True
+30,0.067416,5,e4 → e5 → Nc6 → Bb5 → Ba4,True
+30,0.067416,5,e4 → e5 → Nc6 → a6 → Ba4,True
+30,0.067416,5,e4 → e5 → Nc6 → a6 → Nf6,True
+30,0.067416,5,e4 → e5 → Nc6 → Ba4 → Nf6,True
+30,0.067416,5,e4 → e5 → Bb5 → a6 → Ba4,True
+30,0.067416,5,e4 → e5 → Bb5 → a6 → Nf6,True
+30,0.067416,5,e4 → e5 → Bb5 → Ba4 → Nf6,True
+30,0.067416,5,e4 → e5 → a6 → Ba4 → Nf6,True
+30,0.067416,5,e4 → Nf3 → Nc6 → Bb5 → Ba4,True
+30,0.067416,5,e4 → Nf3 → Nc6 → a6 → Ba4,True
+30,0.067416,5,e4 → Nf3 → Nc6 → a6 → Nf6,True
+30,0.067416,5,e4 → Nf3 → Nc6 → Ba4 → Nf6,True
+30,0.067416,5,e4 → Nf3 → Bb5 → a6 → Ba4,True
+30,0.067416,5,e4 → Nf3 → Bb5 → a6 → Nf6,True
+30,0.067416,5,e4 → Nf3 → Bb5 → Ba4 → Nf6,True
+30,0.067416,5,e4 → Nf3 → a6 → Ba4 → Nf6,True
+30,0.067416,5,e4 → Nc6 → Bb5 → a6 → Ba4,True
+30,0.067416,5,e4 → Nc6 → Bb5 → a6 → Nf6,True
+30,0.067416,5,e4 → Nc6 → Bb5 → Ba4 → Nf6,True
+30,0.067416,5,e4 → Nc6 → a6 → Ba4 → Nf6,True
+30,0.067416,5,e4 → Bb5 → a6 → Ba4 → Nf6,True
+30,0.067416,5,e5 → Nf3 → Nc6 → Bb5 → Ba4,True
+30,0.067416,5,e5 → Nf3 → Nc6 → a6 → Ba4,True
+30,0.067416,5,e5 → Nf3 → Nc6 → a6 → Nf6,True
+30,0.067416,5,e5 → Nf3 → Nc6 → Ba4 → Nf6,True
+30,0.067416,5,e5 → Nf3 → Bb5 → a6 → Ba4,True
+30,0.067416,5,e5 → Nf3 → Bb5 → a6 → Nf6,True
+30,0.067416,5,e5 → Nf3 → Bb5 → Ba4 → Nf6,True
+30,0.067416,5,e5 → Nf3 → a6 → Ba4 → Nf6,True
+30,0.067416,5,e5 → Nc6 → Bb5 → a6 → Ba4,True
+30,0.067416,5,e5 → Nc6 → Bb5 → a6 → Nf6,True
+30,0.067416,5,e5 → Nc6 → Bb5 → Ba4 → Nf6,True
+30,0.067416,5,e5 → Nc6 → a6 → Ba4 → Nf6,True
+30,0.067416,5,e5 → Bb5 → a6 → Ba4 → Nf6,True
+30,0.067416,5,Nc6 → Bb5 → a6 → Ba4 → Nf6,True
+30,0.067416,4,d4 → Nf6 → e6 → Bb4,True
+30,0.067416,4,d4 → Nf6 → Nc3 → Bb4,True
+30,0.067416,4,d4 → Nf6 → g6 → Bg7,True
+30,0.067416,4,d4 → c4 → Nc3 → Bb4,True
+30,0.067416,4,d4 → d5 → c4 → e6,True
+30,0.067416,4,Nf3 → Nc6 → Bb5 → Ba4,True
+30,0.067416,4,Nf3 → Nc6 → a6 → Ba4,True
+30,0.067416,4,Nf3 → Nc6 → a6 → Nf6,True
+30,0.067416,4,Nf3 → Nc6 → Ba4 → Nf6,True
+30,0.067416,4,Nf3 → Bb5 → a6 → Ba4,True
+30,0.067416,4,Nf3 → Bb5 → a6 → Nf6,True
+30,0.067416,4,Nf3 → Bb5 → Ba4 → Nf6,True
+30,0.067416,4,Nf3 → a6 → Ba4 → Nf6,True
+30,0.067416,4,e4 → e5 → Nf3 → Ba4,True
+30,0.067416,4,e4 → e5 → Nc6 → Ba4,True
+30,0.067416,4,e4 → e5 → Bb5 → Ba4,True
+30,0.067416,4,e4 → e5 → a6 → Ba4,True
+30,0.067416,4,e4 → e5 → a6 → Nf6,True
+30,0.067416,4,e4 → e5 → Ba4 → Nf6,True
+30,0.067416,4,e4 → Nf3 → Nc6 → Ba4,True
+30,0.067416,4,e4 → Nf3 → Bb5 → Ba4,True
+30,0.067416,4,e4 → Nf3 → a6 → Ba4,True
+30,0.067416,4,e4 → Nf3 → a6 → Nf6,True
+30,0.067416,4,e4 → Nf3 → Ba4 → Nf6,True
+30,0.067416,4,e4 → Nc6 → Bb5 → Ba4,True
+30,0.067416,4,e4 → Nc6 → a6 → Ba4,True
+30,0.067416,4,e4 → Nc6 → a6 → Nf6,True
+30,0.067416,4,e4 → Nc6 → Ba4 → Nf6,True
+30,0.067416,4,e4 → Bb5 → a6 → Ba4,True
+30,0.067416,4,e4 → Bb5 → a6 → Nf6,True
+30,0.067416,4,e4 → Bb5 → Ba4 → Nf6,True
+30,0.067416,4,e4 → d4 → Nc3 → a6,True
+30,0.067416,4,e4 → a6 → Ba4 → Nf6,True
+30,0.067416,4,e5 → Nf3 → Nc6 → Ba4,True
+30,0.067416,4,e5 → Nf3 → Bb5 → Ba4,True
+30,0.067416,4,e5 → Nf3 → a6 → Ba4,True
+30,0.067416,4,e5 → Nf3 → a6 → Nf6,True
+30,0.067416,4,e5 → Nf3 → Ba4 → Nf6,True
+30,0.067416,4,e5 → Nc6 → Bb5 → Ba4,True
+30,0.067416,4,e5 → Nc6 → a6 → Ba4,True
+30,0.067416,4,e5 → Nc6 → a6 → Nf6,True
+30,0.067416,4,e5 → Nc6 → Ba4 → Nf6,True
+30,0.067416,4,e5 → Bb5 → a6 → Ba4,True
+30,0.067416,4,e5 → Bb5 → a6 → Nf6,True
+30,0.067416,4,e5 → Bb5 → Ba4 → Nf6,True
+30,0.067416,4,e5 → a6 → Ba4 → Nf6,True
+30,0.067416,4,Nc6 → Bb5 → a6 → Ba4,True
+30,0.067416,4,Nc6 → Bb5 → a6 → Nf6,True
+30,0.067416,4,Nc6 → Bb5 → Ba4 → Nf6,True
+30,0.067416,4,Nc6 → a6 → Ba4 → Nf6,True
+30,0.067416,4,Bb5 → a6 → Ba4 → Nf6,True
+30,0.067416,3,d4 → c4 → Bb4,True
+30,0.067416,3,d4 → Nc3 → O-O,True
+30,0.067416,3,c4 → e6 → Bb4,True
+30,0.067416,3,c4 → Nf3 → Nc3,True
+30,0.067416,3,Nf3 → Nc6 → Ba4,True
+30,0.067416,3,Nf3 → Bb5 → Ba4,True
+30,0.067416,3,Nf3 → Nf6 → e6,True
+30,0.067416,3,Nf3 → a6 → Ba4,True
+30,0.067416,3,Nf3 → d4 → a6,True
+30,0.067416,3,Nf3 → Ba4 → Nf6,True
+30,0.067416,3,d5 → Nf3 → Nf6,True
+30,0.067416,3,e4 → e5 → Ba4,True
+30,0.067416,3,e4 → Nf3 → Ba4,True
+30,0.067416,3,e4 → Nc6 → Ba4,True
+30,0.067416,3,e4 → Bb5 → Ba4,True
+30,0.067416,3,e4 → d4 → Nc6,True
+30,0.067416,3,e4 → a6 → Ba4,True
+30,0.067416,3,e4 → a6 → Nf6,True
+30,0.067416,3,e4 → Ba4 → Nf6,True
+30,0.067416,3,e5 → Nf3 → Ba4,True
+30,0.067416,3,e5 → Nc6 → Ba4,True
+30,0.067416,3,e5 → Bb5 → Ba4,True
+30,0.067416,3,e5 → a6 → Ba4,True
+30,0.067416,3,e5 → a6 → Nf6,True
+30,0.067416,3,e5 → Ba4 → Nf6,True
+30,0.067416,3,Nc6 → Bb5 → Ba4,True
+30,0.067416,3,Nc6 → a6 → Ba4,True
+30,0.067416,3,Nc6 → a6 → Nf6,True
+30,0.067416,3,Nc6 → Ba4 → Nf6,True
+30,0.067416,3,Bb5 → a6 → Ba4,True
+30,0.067416,3,Bb5 → a6 → Nf6,True
+30,0.067416,3,Bb5 → Ba4 → Nf6,True
+30,0.067416,3,c5 → Nc3 → a6,True
+30,0.067416,3,a6 → Ba4 → Nf6,True
+30,0.067416,2,d4 → e5,True
+30,0.067416,2,d4 → Bg2,True
+30,0.067416,2,Nf6 → e4,True
+30,0.067416,2,Nf3 → Ba4,True
+30,0.067416,2,d5 → O-O,True
+30,0.067416,2,e4 → Bg7,True
+30,0.067416,2,e4 → Ba4,True
+30,0.067416,2,e5 → Ba4,True
+30,0.067416,2,Nc6 → Ba4,True
+30,0.067416,2,Bb5 → Ba4,True
+30,0.067416,2,a6 → Ba4,True
+30,0.067416,2,Ba4 → Nf6,True
+29,0.065169,4,d4 → Nf6 → Nc3 → O-O,True
+29,0.065169,4,d4 → Nf6 → Nc3 → d5,True
+29,0.065169,4,d4 → c4 → e6 → Bb4,True
+29,0.065169,4,d4 → e6 → Nc3 → Bb4,True
+29,0.065169,4,Nf6 → c4 → Nc3 → Bb4,True
+29,0.065169,4,Nf6 → e6 → Nc3 → Bb4,True
+29,0.065169,4,c4 → e6 → Nc3 → Bb4,True
+29,0.065169,4,e4 → Nf3 → Nf6 → a6,True
+29,0.065169,4,e4 → c5 → Nc3 → a6,True
+29,0.065169,4,e4 → d6 → d4 → a6,True
+29,0.065169,3,d4 → Nf6 → c5,True
+29,0.065169,3,d4 → e6 → g3,True
+29,0.065169,3,d4 → g6 → Nc3,True
+29,0.065169,3,Nf6 → c4 → Bb4,True
+29,0.065169,3,c4 → Nc3 → O-O,True
+29,0.065169,3,e6 → Nf3 → d5,True
+29,0.065169,3,d5 → c4 → Nc3,True
+29,0.065169,3,e4 → Nf6 → a6,True
+29,0.065169,3,e4 → e6 → d4,True
+29,0.065169,3,d6 → d4 → a6,True
+29,0.065169,2,Nf6 → Nc6,True
+29,0.065169,2,Nf3 → c3,True
+29,0.065169,2,Nf3 → d3,True
+29,0.065169,2,d5 → Be7,True
+29,0.065169,2,Nc3 → e4,True
+29,0.065169,2,Nc3 → Bg7,True
+29,0.065169,2,e4 → g6,True
+28,0.062921,7,e4 → c5 → Nf3 → d6 → d4 → cxd4 → a6,True
+28,0.062921,6,e4 → Nf3 → d6 → d4 → cxd4 → a6,True
+28,0.062921,6,e4 → c5 → Nf3 → d6 → d4 → a6,True
+28,0.062921,6,e4 → c5 → Nf3 → d6 → cxd4 → a6,True
+28,0.062921,6,e4 → c5 → Nf3 → d4 → cxd4 → a6,True
+28,0.062921,6,e4 → c5 → d6 → d4 → cxd4 → a6,True
+28,0.062921,6,c5 → Nf3 → d6 → d4 → cxd4 → a6,True
+28,0.062921,5,d4 → Nf6 → c4 → Nc3 → Bb4,True
+28,0.062921,5,d4 → Nf6 → e6 → Nc3 → Bb4,True
+28,0.062921,5,d4 → c4 → e6 → Nc3 → Bb4,True
+28,0.062921,5,Nf6 → c4 → e6 → Nc3 → Bb4,True
+28,0.062921,5,Nf3 → d6 → d4 → cxd4 → a6,True
+28,0.062921,5,e4 → Nf3 → d4 → cxd4 → a6,True
+28,0.062921,5,e4 → Nf3 → d6 → d4 → a6,True
+28,0.062921,5,e4 → Nf3 → d6 → cxd4 → a6,True
+28,0.062921,5,e4 → c5 → Nf3 → d4 → a6,True
+28,0.062921,5,e4 → c5 → Nf3 → cxd4 → a6,True
+28,0.062921,5,e4 → c5 → Nf3 → Nc3 → a6,True
+28,0.062921,5,e4 → c5 → d6 → d4 → a6,True
+28,0.062921,5,e4 → c5 → d6 → cxd4 → a6,True
+28,0.062921,5,e4 → c5 → d4 → cxd4 → a6,True
+28,0.062921,5,e4 → d6 → d4 → cxd4 → a6,True
+28,0.062921,5,e4 → d6 → d4 → Nc3 → a6,True
+28,0.062921,5,c5 → Nf3 → d6 → d4 → a6,True
+28,0.062921,5,c5 → Nf3 → d6 → cxd4 → a6,True
+28,0.062921,5,c5 → Nf3 → d4 → cxd4 → a6,True
+28,0.062921,5,c5 → d6 → d4 → cxd4 → a6,True
+28,0.062921,4,d4 → Nf6 → c4 → Bb4,True
+28,0.062921,4,d4 → c4 → e6 → g3,True
+28,0.062921,4,d4 → c4 → Nc3 → d5,True
+28,0.062921,4,d4 → d5 → c4 → Nf3,True
+28,0.062921,4,d4 → d5 → c4 → Nf6,True
+28,0.062921,4,d4 → d5 → Nf3 → Nf6,True
+28,0.062921,4,Nf6 → c4 → e6 → Bb4,True
+28,0.062921,4,Nf6 → c4 → Nc3 → d5,True
+28,0.062921,4,c4 → e6 → Nf3 → d5,True
+28,0.062921,4,c4 → e6 → Nc3 → d5,True
+28,0.062921,4,Nf3 → d4 → Nf6 → a6,True
+28,0.062921,4,Nf3 → d4 → cxd4 → a6,True
+28,0.062921,4,Nf3 → d6 → d4 → a6,True
+28,0.062921,4,Nf3 → d6 → cxd4 → a6,True
+28,0.062921,4,e4 → Nf3 → d4 → a6,True
+28,0.062921,4,e4 → Nf3 → cxd4 → a6,True
+28,0.062921,4,e4 → Nf3 → Nc3 → a6,True
+28,0.062921,4,e4 → d4 → cxd4 → a6,True
+28,0.062921,4,e4 → c5 → d4 → a6,True
+28,0.062921,4,e4 → c5 → cxd4 → a6,True
+28,0.062921,4,e4 → d6 → cxd4 → a6,True
+28,0.062921,4,e4 → d6 → Nc3 → a6,True
+28,0.062921,4,c5 → Nf3 → d4 → a6,True
+28,0.062921,4,c5 → Nf3 → cxd4 → a6,True
+28,0.062921,4,c5 → Nf3 → Nc3 → a6,True
+28,0.062921,4,c5 → d6 → d4 → a6,True
+28,0.062921,4,c5 → d6 → cxd4 → a6,True
+28,0.062921,4,c5 → d4 → cxd4 → a6,True
+28,0.062921,4,d6 → d4 → cxd4 → a6,True
+28,0.062921,4,d6 → d4 → Nc3 → a6,True
+28,0.062921,3,d4 → Nf6 → Bg2,True
+28,0.062921,3,d4 → c4 → Bg7,True
+28,0.062921,3,d4 → g3 → Bg2,True
+28,0.062921,3,d4 → cxd4 → a6,True
+28,0.062921,3,c4 → e6 → O-O,True
+28,0.062921,3,c4 → Nc3 → e4,True
+28,0.062921,3,c4 → Nf6 → Nc3,True
+28,0.062921,3,e6 → Nc3 → d5,True
+28,0.062921,3,Nf3 → cxd4 → a6,True
+28,0.062921,3,d5 → c4 → Nf3,True
+28,0.062921,3,d5 → c4 → Nf6,True
+28,0.062921,3,e4 → cxd4 → a6,True
+28,0.062921,3,c5 → d4 → a6,True
+28,0.062921,3,c5 → cxd4 → a6,True
+28,0.062921,3,d6 → cxd4 → a6,True
+28,0.062921,3,d6 → Nc3 → a6,True
+28,0.062921,2,d4 → Be7,True
+28,0.062921,2,Nf6 → cxd5,True
+28,0.062921,2,Nf6 → d3,True
+28,0.062921,2,d5 → d4,True
+28,0.062921,2,Nc3 → e3,True
+28,0.062921,2,e4 → Nxe4,True
+28,0.062921,2,e4 → d3,True
+28,0.062921,2,e5 → Bc5,True
+28,0.062921,2,e5 → d3,True
+28,0.062921,2,cxd4 → a6,True
+27,0.060674,8,e4 → c5 → Nf3 → d6 → d4 → cxd4 → Nxd4 → a6,True
+27,0.060674,8,e4 → c5 → Nf3 → d6 → d4 → Nf6 → Nc3 → a6,True
+27,0.060674,7,e4 → Nf3 → d6 → d4 → cxd4 → Nxd4 → a6,True
+27,0.060674,7,e4 → Nf3 → d6 → d4 → Nf6 → Nc3 → a6,True
+27,0.060674,7,e4 → c5 → Nf3 → d6 → d4 → Nxd4 → a6,True
+27,0.060674,7,e4 → c5 → Nf3 → d6 → d4 → Nf6 → a6,True
+27,0.060674,7,e4 → c5 → Nf3 → d6 → d4 → Nc3 → a6,True
+27,0.060674,7,e4 → c5 → Nf3 → d6 → cxd4 → Nxd4 → a6,True
+27,0.060674,7,e4 → c5 → Nf3 → d6 → Nf6 → Nc3 → a6,True
+27,0.060674,7,e4 → c5 → Nf3 → d4 → cxd4 → Nxd4 → a6,True
+27,0.060674,7,e4 → c5 → Nf3 → d4 → Nf6 → Nc3 → a6,True
+27,0.060674,7,e4 → c5 → d6 → d4 → cxd4 → Nxd4 → a6,True
+27,0.060674,7,e4 → c5 → d6 → d4 → Nf6 → Nc3 → a6,True
+27,0.060674,7,c5 → Nf3 → d6 → d4 → cxd4 → Nxd4 → a6,True
+27,0.060674,7,c5 → Nf3 → d6 → d4 → Nf6 → Nc3 → a6,True
+27,0.060674,6,d4 → Nf6 → c4 → e6 → Nc3 → Bb4,True
+27,0.060674,6,Nf3 → d6 → d4 → cxd4 → Nxd4 → a6,True
+27,0.060674,6,Nf3 → d6 → d4 → Nf6 → Nc3 → a6,True
+27,0.060674,6,e4 → Nf3 → d4 → Nf6 → Nc3 → a6,True
+27,0.060674,6,e4 → Nf3 → d4 → cxd4 → Nxd4 → a6,True
+27,0.060674,6,e4 → Nf3 → d6 → d4 → Nxd4 → a6,True
+27,0.060674,6,e4 → Nf3 → d6 → d4 → Nf6 → a6,True
+27,0.060674,6,e4 → Nf3 → d6 → d4 → Nc3 → a6,True
+27,0.060674,6,e4 → Nf3 → d6 → cxd4 → Nxd4 → a6,True
+27,0.060674,6,e4 → Nf3 → d6 → Nf6 → Nc3 → a6,True
+27,0.060674,6,e4 → c5 → Nf3 → d6 → Nxd4 → a6,True
+27,0.060674,6,e4 → c5 → Nf3 → d6 → Nf6 → a6,True
+27,0.060674,6,e4 → c5 → Nf3 → d6 → Nc3 → a6,True
+27,0.060674,6,e4 → c5 → Nf3 → d4 → Nxd4 → a6,True
+27,0.060674,6,e4 → c5 → Nf3 → d4 → Nf6 → a6,True
+27,0.060674,6,e4 → c5 → Nf3 → d4 → Nc3 → a6,True
+27,0.060674,6,e4 → c5 → Nf3 → cxd4 → Nxd4 → a6,True
+27,0.060674,6,e4 → c5 → Nf3 → Nf6 → Nc3 → a6,True
+27,0.060674,6,e4 → c5 → d6 → d4 → Nxd4 → a6,True
+27,0.060674,6,e4 → c5 → d6 → d4 → Nf6 → a6,True
+27,0.060674,6,e4 → c5 → d6 → d4 → Nc3 → a6,True
+27,0.060674,6,e4 → c5 → d6 → cxd4 → Nxd4 → a6,True
+27,0.060674,6,e4 → c5 → d6 → Nf6 → Nc3 → a6,True
+27,0.060674,6,e4 → c5 → d4 → cxd4 → Nxd4 → a6,True
+27,0.060674,6,e4 → c5 → d4 → Nf6 → Nc3 → a6,True
+27,0.060674,6,e4 → d6 → d4 → cxd4 → Nxd4 → a6,True
+27,0.060674,6,e4 → d6 → d4 → Nf6 → Nc3 → a6,True
+27,0.060674,6,c5 → Nf3 → d6 → d4 → Nxd4 → a6,True
+27,0.060674,6,c5 → Nf3 → d6 → d4 → Nf6 → a6,True
+27,0.060674,6,c5 → Nf3 → d6 → d4 → Nc3 → a6,True
+27,0.060674,6,c5 → Nf3 → d6 → cxd4 → Nxd4 → a6,True
+27,0.060674,6,c5 → Nf3 → d6 → Nf6 → Nc3 → a6,True
+27,0.060674,6,c5 → Nf3 → d4 → cxd4 → Nxd4 → a6,True
+27,0.060674,6,c5 → Nf3 → d4 → Nf6 → Nc3 → a6,True
+27,0.060674,6,c5 → d6 → d4 → cxd4 → Nxd4 → a6,True
+27,0.060674,6,c5 → d6 → d4 → Nf6 → Nc3 → a6,True
+27,0.060674,5,d4 → Nf6 → c4 → e6 → Bb4,True
+27,0.060674,5,Nf3 → d4 → Nf6 → Nc3 → a6,True
+27,0.060674,5,Nf3 → d4 → cxd4 → Nxd4 → a6,True
+27,0.060674,5,Nf3 → d6 → d4 → Nxd4 → a6,True
+27,0.060674,5,Nf3 → d6 → d4 → Nf6 → a6,True
+27,0.060674,5,Nf3 → d6 → d4 → Nc3 → a6,True
+27,0.060674,5,Nf3 → d6 → cxd4 → Nxd4 → a6,True
+27,0.060674,5,Nf3 → d6 → Nf6 → Nc3 → a6,True
+27,0.060674,5,e4 → Nf3 → Nf6 → Nc3 → a6,True
+27,0.060674,5,e4 → Nf3 → d4 → Nxd4 → a6,True
+27,0.060674,5,e4 → Nf3 → d4 → Nf6 → a6,True
+27,0.060674,5,e4 → Nf3 → d4 → Nc3 → a6,True
+27,0.060674,5,e4 → Nf3 → d6 → Nxd4 → a6,True
+27,0.060674,5,e4 → Nf3 → d6 → Nf6 → a6,True
+27,0.060674,5,e4 → Nf3 → d6 → Nc3 → a6,True
+27,0.060674,5,e4 → Nf3 → cxd4 → Nxd4 → a6,True
+27,0.060674,5,e4 → d4 → Nf6 → Nc3 → a6,True
+27,0.060674,5,e4 → d4 → cxd4 → Nxd4 → a6,True
+27,0.060674,5,e4 → c5 → Nf3 → Nxd4 → a6,True
+27,0.060674,5,e4 → c5 → Nf3 → Nf6 → a6,True
+27,0.060674,5,e4 → c5 → d6 → Nxd4 → a6,True
+27,0.060674,5,e4 → c5 → d6 → Nf6 → a6,True
+27,0.060674,5,e4 → c5 → d6 → Nc3 → a6,True
+27,0.060674,5,e4 → c5 → d4 → Nxd4 → a6,True
+27,0.060674,5,e4 → c5 → d4 → Nf6 → a6,True
+27,0.060674,5,e4 → c5 → d4 → Nc3 → a6,True
+27,0.060674,5,e4 → c5 → cxd4 → Nxd4 → a6,True
+27,0.060674,5,e4 → c5 → Nf6 → Nc3 → a6,True
+27,0.060674,5,e4 → d6 → d4 → Nxd4 → a6,True
+27,0.060674,5,e4 → d6 → d4 → Nf6 → a6,True
+27,0.060674,5,e4 → d6 → cxd4 → Nxd4 → a6,True
+27,0.060674,5,e4 → d6 → Nf6 → Nc3 → a6,True
+27,0.060674,5,c5 → Nf3 → d6 → Nxd4 → a6,True
+27,0.060674,5,c5 → Nf3 → d6 → Nf6 → a6,True
+27,0.060674,5,c5 → Nf3 → d6 → Nc3 → a6,True
+27,0.060674,5,c5 → Nf3 → d4 → Nxd4 → a6,True
+27,0.060674,5,c5 → Nf3 → d4 → Nf6 → a6,True
+27,0.060674,5,c5 → Nf3 → d4 → Nc3 → a6,True
+27,0.060674,5,c5 → Nf3 → cxd4 → Nxd4 → a6,True
+27,0.060674,5,c5 → Nf3 → Nf6 → Nc3 → a6,True
+27,0.060674,5,c5 → d6 → d4 → Nxd4 → a6,True
+27,0.060674,5,c5 → d6 → d4 → Nf6 → a6,True
+27,0.060674,5,c5 → d6 → d4 → Nc3 → a6,True
+27,0.060674,5,c5 → d6 → cxd4 → Nxd4 → a6,True
+27,0.060674,5,c5 → d6 → Nf6 → Nc3 → a6,True
+27,0.060674,5,c5 → d4 → cxd4 → Nxd4 → a6,True
+27,0.060674,5,c5 → d4 → Nf6 → Nc3 → a6,True
+27,0.060674,5,d6 → d4 → cxd4 → Nxd4 → a6,True
+27,0.060674,5,d6 → d4 → Nf6 → Nc3 → a6,True
+27,0.060674,4,d4 → c4 → Nf3 → Nc3,True
+27,0.060674,4,d4 → c4 → Nc3 → O-O,True
+27,0.060674,4,d4 → cxd4 → Nxd4 → a6,True
+27,0.060674,4,Nf3 → d4 → Nxd4 → a6,True
+27,0.060674,4,Nf3 → d4 → Nc3 → a6,True
+27,0.060674,4,Nf3 → d6 → Nxd4 → a6,True
+27,0.060674,4,Nf3 → d6 → Nf6 → a6,True
+27,0.060674,4,Nf3 → d6 → Nc3 → a6,True
+27,0.060674,4,Nf3 → cxd4 → Nxd4 → a6,True
+27,0.060674,4,e4 → Nf3 → Nxd4 → a6,True
+27,0.060674,4,e4 → Nf6 → Nc3 → a6,True
+27,0.060674,4,e4 → d4 → Nxd4 → a6,True
+27,0.060674,4,e4 → d4 → Nf6 → a6,True
+27,0.060674,4,e4 → c5 → Nxd4 → a6,True
+27,0.060674,4,e4 → c5 → Nf6 → a6,True
+27,0.060674,4,e4 → d6 → Nxd4 → a6,True
+27,0.060674,4,e4 → d6 → Nf6 → a6,True
+27,0.060674,4,e4 → cxd4 → Nxd4 → a6,True
+27,0.060674,4,c5 → Nf3 → Nxd4 → a6,True
+27,0.060674,4,c5 → Nf3 → Nf6 → a6,True
+27,0.060674,4,c5 → d6 → Nxd4 → a6,True
+27,0.060674,4,c5 → d6 → Nf6 → a6,True
+27,0.060674,4,c5 → d6 → Nc3 → a6,True
+27,0.060674,4,c5 → d4 → Nxd4 → a6,True
+27,0.060674,4,c5 → d4 → Nf6 → a6,True
+27,0.060674,4,c5 → d4 → Nc3 → a6,True
+27,0.060674,4,c5 → cxd4 → Nxd4 → a6,True
+27,0.060674,4,c5 → Nf6 → Nc3 → a6,True
+27,0.060674,4,d6 → d4 → Nxd4 → a6,True
+27,0.060674,4,d6 → d4 → Nf6 → a6,True
+27,0.060674,4,d6 → cxd4 → Nxd4 → a6,True
+27,0.060674,4,d6 → Nf6 → Nc3 → a6,True
+27,0.060674,3,d4 → c4 → c6,True
+27,0.060674,3,d4 → Nf3 → g3,True
+27,0.060674,3,d4 → Nxd4 → a6,True
+27,0.060674,3,Nf6 → g3 → O-O,True
+27,0.060674,3,c4 → Nc3 → Nf3,True
+27,0.060674,3,Nf3 → g3 → O-O,True
+27,0.060674,3,Nf3 → Nf6 → Be7,True
+27,0.060674,3,Nf3 → Nxd4 → a6,True
+27,0.060674,3,e4 → Nf3 → c3,True
+27,0.060674,3,e4 → Nxd4 → a6,True
+27,0.060674,3,e5 → Nc6 → Bc5,True
+27,0.060674,3,c5 → Nxd4 → a6,True
+27,0.060674,3,c5 → Nf6 → a6,True
+27,0.060674,3,d6 → Nxd4 → a6,True
+27,0.060674,3,d6 → Nf6 → a6,True
+27,0.060674,3,cxd4 → Nxd4 → a6,True
+27,0.060674,2,Nc6 → Bc5,True
+27,0.060674,2,Nxd4 → a6,True
+26,0.058427,10,e4 → c5 → Nf3 → d6 → d4 → cxd4 → Nxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,9,e4 → e5 → Nf3 → Nc6 → Bb5 → a6 → Ba4 → Nf6 → O-O,True
+26,0.058427,9,e4 → Nf3 → d6 → d4 → cxd4 → Nxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,9,e4 → c5 → Nf3 → d6 → d4 → cxd4 → Nxd4 → Nf6 → a6,True
+26,0.058427,9,e4 → c5 → Nf3 → d6 → d4 → cxd4 → Nxd4 → Nc3 → a6,True
+26,0.058427,9,e4 → c5 → Nf3 → d6 → d4 → cxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,9,e4 → c5 → Nf3 → d6 → d4 → Nxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,9,e4 → c5 → Nf3 → d6 → cxd4 → Nxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,9,e4 → c5 → Nf3 → d4 → cxd4 → Nxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,9,e4 → c5 → d6 → d4 → cxd4 → Nxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,9,c5 → Nf3 → d6 → d4 → cxd4 → Nxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,8,Nf3 → d6 → d4 → cxd4 → Nxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,8,e4 → e5 → Nf3 → Nc6 → Bb5 → a6 → Ba4 → O-O,True
+26,0.058427,8,e4 → e5 → Nf3 → Nc6 → Bb5 → a6 → Nf6 → O-O,True
+26,0.058427,8,e4 → e5 → Nf3 → Nc6 → Bb5 → Ba4 → Nf6 → O-O,True
+26,0.058427,8,e4 → e5 → Nf3 → Nc6 → a6 → Ba4 → Nf6 → O-O,True
+26,0.058427,8,e4 → e5 → Nf3 → Bb5 → a6 → Ba4 → Nf6 → O-O,True
+26,0.058427,8,e4 → e5 → Nc6 → Bb5 → a6 → Ba4 → Nf6 → O-O,True
+26,0.058427,8,e4 → Nf3 → Nc6 → Bb5 → a6 → Ba4 → Nf6 → O-O,True
+26,0.058427,8,e4 → Nf3 → d4 → cxd4 → Nxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,8,e4 → Nf3 → d6 → d4 → cxd4 → Nxd4 → Nf6 → a6,True
+26,0.058427,8,e4 → Nf3 → d6 → d4 → cxd4 → Nxd4 → Nc3 → a6,True
+26,0.058427,8,e4 → Nf3 → d6 → d4 → cxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,8,e4 → Nf3 → d6 → d4 → Nxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,8,e4 → Nf3 → d6 → cxd4 → Nxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,8,e4 → c5 → Nf3 → d6 → d4 → cxd4 → Nf6 → a6,True
+26,0.058427,8,e4 → c5 → Nf3 → d6 → d4 → cxd4 → Nc3 → a6,True
+26,0.058427,8,e4 → c5 → Nf3 → d6 → d4 → Nxd4 → Nf6 → a6,True
+26,0.058427,8,e4 → c5 → Nf3 → d6 → d4 → Nxd4 → Nc3 → a6,True
+26,0.058427,8,e4 → c5 → Nf3 → d6 → cxd4 → Nxd4 → Nf6 → a6,True
+26,0.058427,8,e4 → c5 → Nf3 → d6 → cxd4 → Nxd4 → Nc3 → a6,True
+26,0.058427,8,e4 → c5 → Nf3 → d6 → cxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,8,e4 → c5 → Nf3 → d6 → Nxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,8,e4 → c5 → Nf3 → d4 → cxd4 → Nxd4 → Nf6 → a6,True
+26,0.058427,8,e4 → c5 → Nf3 → d4 → cxd4 → Nxd4 → Nc3 → a6,True
+26,0.058427,8,e4 → c5 → Nf3 → d4 → cxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,8,e4 → c5 → Nf3 → d4 → Nxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,8,e4 → c5 → Nf3 → cxd4 → Nxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,8,e4 → c5 → d6 → d4 → cxd4 → Nxd4 → Nf6 → a6,True
+26,0.058427,8,e4 → c5 → d6 → d4 → cxd4 → Nxd4 → Nc3 → a6,True
+26,0.058427,8,e4 → c5 → d6 → d4 → cxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,8,e4 → c5 → d6 → d4 → Nxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,8,e4 → c5 → d6 → cxd4 → Nxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,8,e4 → c5 → d4 → cxd4 → Nxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,8,e4 → d6 → d4 → cxd4 → Nxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,8,e5 → Nf3 → Nc6 → Bb5 → a6 → Ba4 → Nf6 → O-O,True
+26,0.058427,8,c5 → Nf3 → d6 → d4 → cxd4 → Nxd4 → Nf6 → a6,True
+26,0.058427,8,c5 → Nf3 → d6 → d4 → cxd4 → Nxd4 → Nc3 → a6,True
+26,0.058427,8,c5 → Nf3 → d6 → d4 → cxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,8,c5 → Nf3 → d6 → d4 → Nxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,8,c5 → Nf3 → d6 → cxd4 → Nxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,8,c5 → Nf3 → d4 → cxd4 → Nxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,8,c5 → d6 → d4 → cxd4 → Nxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,7,Nf3 → Nc6 → Bb5 → a6 → Ba4 → Nf6 → O-O,True
+26,0.058427,7,Nf3 → d4 → cxd4 → Nxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,7,Nf3 → d6 → d4 → cxd4 → Nxd4 → Nf6 → a6,True
+26,0.058427,7,Nf3 → d6 → d4 → cxd4 → Nxd4 → Nc3 → a6,True
+26,0.058427,7,Nf3 → d6 → d4 → cxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,7,Nf3 → d6 → d4 → Nxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,7,Nf3 → d6 → cxd4 → Nxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,7,e4 → e5 → Nf3 → Nc6 → Bb5 → a6 → O-O,True
+26,0.058427,7,e4 → e5 → Nf3 → Nc6 → Bb5 → Ba4 → O-O,True
+26,0.058427,7,e4 → e5 → Nf3 → Nc6 → a6 → Ba4 → O-O,True
+26,0.058427,7,e4 → e5 → Nf3 → Nc6 → a6 → Nf6 → O-O,True
+26,0.058427,7,e4 → e5 → Nf3 → Nc6 → Ba4 → Nf6 → O-O,True
+26,0.058427,7,e4 → e5 → Nf3 → Bb5 → a6 → Ba4 → O-O,True
+26,0.058427,7,e4 → e5 → Nf3 → Bb5 → a6 → Nf6 → O-O,True
+26,0.058427,7,e4 → e5 → Nf3 → Bb5 → Ba4 → Nf6 → O-O,True
+26,0.058427,7,e4 → e5 → Nf3 → a6 → Ba4 → Nf6 → O-O,True
+26,0.058427,7,e4 → e5 → Nc6 → Bb5 → a6 → Ba4 → O-O,True
+26,0.058427,7,e4 → e5 → Nc6 → Bb5 → a6 → Nf6 → O-O,True
+26,0.058427,7,e4 → e5 → Nc6 → Bb5 → Ba4 → Nf6 → O-O,True
+26,0.058427,7,e4 → e5 → Nc6 → a6 → Ba4 → Nf6 → O-O,True
+26,0.058427,7,e4 → e5 → Bb5 → a6 → Ba4 → Nf6 → O-O,True
+26,0.058427,7,e4 → Nf3 → Nc6 → Bb5 → a6 → Ba4 → O-O,True
+26,0.058427,7,e4 → Nf3 → Nc6 → Bb5 → a6 → Nf6 → O-O,True
+26,0.058427,7,e4 → Nf3 → Nc6 → Bb5 → Ba4 → Nf6 → O-O,True
+26,0.058427,7,e4 → Nf3 → Nc6 → a6 → Ba4 → Nf6 → O-O,True
+26,0.058427,7,e4 → Nf3 → Bb5 → a6 → Ba4 → Nf6 → O-O,True
+26,0.058427,7,e4 → Nf3 → d4 → Nxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,7,e4 → Nf3 → d4 → cxd4 → Nxd4 → Nf6 → a6,True
+26,0.058427,7,e4 → Nf3 → d4 → cxd4 → Nxd4 → Nc3 → a6,True
+26,0.058427,7,e4 → Nf3 → d4 → cxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,7,e4 → Nf3 → d6 → d4 → cxd4 → Nf6 → a6,True
+26,0.058427,7,e4 → Nf3 → d6 → d4 → cxd4 → Nc3 → a6,True
+26,0.058427,7,e4 → Nf3 → d6 → d4 → Nxd4 → Nf6 → a6,True
+26,0.058427,7,e4 → Nf3 → d6 → d4 → Nxd4 → Nc3 → a6,True
+26,0.058427,7,e4 → Nf3 → d6 → cxd4 → Nxd4 → Nf6 → a6,True
+26,0.058427,7,e4 → Nf3 → d6 → cxd4 → Nxd4 → Nc3 → a6,True
+26,0.058427,7,e4 → Nf3 → d6 → cxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,7,e4 → Nf3 → d6 → Nxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,7,e4 → Nf3 → cxd4 → Nxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,7,e4 → Nc6 → Bb5 → a6 → Ba4 → Nf6 → O-O,True
+26,0.058427,7,e4 → d4 → cxd4 → Nxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,7,e4 → c5 → Nf3 → d6 → cxd4 → Nf6 → a6,True
+26,0.058427,7,e4 → c5 → Nf3 → d6 → cxd4 → Nc3 → a6,True
+26,0.058427,7,e4 → c5 → Nf3 → d6 → Nxd4 → Nf6 → a6,True
+26,0.058427,7,e4 → c5 → Nf3 → d6 → Nxd4 → Nc3 → a6,True
+26,0.058427,7,e4 → c5 → Nf3 → d4 → cxd4 → Nf6 → a6,True
+26,0.058427,7,e4 → c5 → Nf3 → d4 → cxd4 → Nc3 → a6,True
+26,0.058427,7,e4 → c5 → Nf3 → d4 → Nxd4 → Nf6 → a6,True
+26,0.058427,7,e4 → c5 → Nf3 → d4 → Nxd4 → Nc3 → a6,True
+26,0.058427,7,e4 → c5 → Nf3 → cxd4 → Nxd4 → Nf6 → a6,True
+26,0.058427,7,e4 → c5 → Nf3 → cxd4 → Nxd4 → Nc3 → a6,True
+26,0.058427,7,e4 → c5 → Nf3 → cxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,7,e4 → c5 → Nf3 → Nxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,7,e4 → c5 → d6 → d4 → cxd4 → Nf6 → a6,True
+26,0.058427,7,e4 → c5 → d6 → d4 → cxd4 → Nc3 → a6,True
+26,0.058427,7,e4 → c5 → d6 → d4 → Nxd4 → Nf6 → a6,True
+26,0.058427,7,e4 → c5 → d6 → d4 → Nxd4 → Nc3 → a6,True
+26,0.058427,7,e4 → c5 → d6 → cxd4 → Nxd4 → Nf6 → a6,True
+26,0.058427,7,e4 → c5 → d6 → cxd4 → Nxd4 → Nc3 → a6,True
+26,0.058427,7,e4 → c5 → d6 → cxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,7,e4 → c5 → d6 → Nxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,7,e4 → c5 → d4 → cxd4 → Nxd4 → Nf6 → a6,True
+26,0.058427,7,e4 → c5 → d4 → cxd4 → Nxd4 → Nc3 → a6,True
+26,0.058427,7,e4 → c5 → d4 → cxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,7,e4 → c5 → d4 → Nxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,7,e4 → c5 → cxd4 → Nxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,7,e4 → d6 → d4 → cxd4 → Nxd4 → Nf6 → a6,True
+26,0.058427,7,e4 → d6 → d4 → cxd4 → Nxd4 → Nc3 → a6,True
+26,0.058427,7,e4 → d6 → d4 → cxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,7,e4 → d6 → d4 → Nxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,7,e4 → d6 → cxd4 → Nxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,7,e5 → Nf3 → Nc6 → Bb5 → a6 → Ba4 → O-O,True
+26,0.058427,7,e5 → Nf3 → Nc6 → Bb5 → a6 → Nf6 → O-O,True
+26,0.058427,7,e5 → Nf3 → Nc6 → Bb5 → Ba4 → Nf6 → O-O,True
+26,0.058427,7,e5 → Nf3 → Nc6 → a6 → Ba4 → Nf6 → O-O,True
+26,0.058427,7,e5 → Nf3 → Bb5 → a6 → Ba4 → Nf6 → O-O,True
+26,0.058427,7,e5 → Nc6 → Bb5 → a6 → Ba4 → Nf6 → O-O,True
+26,0.058427,7,c5 → Nf3 → d6 → d4 → cxd4 → Nf6 → a6,True
+26,0.058427,7,c5 → Nf3 → d6 → d4 → cxd4 → Nc3 → a6,True
+26,0.058427,7,c5 → Nf3 → d6 → d4 → Nxd4 → Nf6 → a6,True
+26,0.058427,7,c5 → Nf3 → d6 → d4 → Nxd4 → Nc3 → a6,True
+26,0.058427,7,c5 → Nf3 → d6 → cxd4 → Nxd4 → Nf6 → a6,True
+26,0.058427,7,c5 → Nf3 → d6 → cxd4 → Nxd4 → Nc3 → a6,True
+26,0.058427,7,c5 → Nf3 → d6 → cxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,7,c5 → Nf3 → d6 → Nxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,7,c5 → Nf3 → d4 → cxd4 → Nxd4 → Nf6 → a6,True
+26,0.058427,7,c5 → Nf3 → d4 → cxd4 → Nxd4 → Nc3 → a6,True
+26,0.058427,7,c5 → Nf3 → d4 → cxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,7,c5 → Nf3 → d4 → Nxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,7,c5 → Nf3 → cxd4 → Nxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,7,c5 → d6 → d4 → cxd4 → Nxd4 → Nf6 → a6,True
+26,0.058427,7,c5 → d6 → d4 → cxd4 → Nxd4 → Nc3 → a6,True
+26,0.058427,7,c5 → d6 → d4 → cxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,7,c5 → d6 → d4 → Nxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,7,c5 → d6 → cxd4 → Nxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,7,c5 → d4 → cxd4 → Nxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,7,d6 → d4 → cxd4 → Nxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,6,d4 → cxd4 → Nxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,6,Nf3 → Nc6 → Bb5 → a6 → Ba4 → O-O,True
+26,0.058427,6,Nf3 → Nc6 → Bb5 → a6 → Nf6 → O-O,True
+26,0.058427,6,Nf3 → Nc6 → Bb5 → Ba4 → Nf6 → O-O,True
+26,0.058427,6,Nf3 → Nc6 → a6 → Ba4 → Nf6 → O-O,True
+26,0.058427,6,Nf3 → Bb5 → a6 → Ba4 → Nf6 → O-O,True
+26,0.058427,6,Nf3 → d4 → Nxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,6,Nf3 → d4 → cxd4 → Nxd4 → Nf6 → a6,True
+26,0.058427,6,Nf3 → d4 → cxd4 → Nxd4 → Nc3 → a6,True
+26,0.058427,6,Nf3 → d4 → cxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,6,Nf3 → d6 → d4 → cxd4 → Nf6 → a6,True
+26,0.058427,6,Nf3 → d6 → d4 → cxd4 → Nc3 → a6,True
+26,0.058427,6,Nf3 → d6 → d4 → Nxd4 → Nf6 → a6,True
+26,0.058427,6,Nf3 → d6 → d4 → Nxd4 → Nc3 → a6,True
+26,0.058427,6,Nf3 → d6 → cxd4 → Nxd4 → Nf6 → a6,True
+26,0.058427,6,Nf3 → d6 → cxd4 → Nxd4 → Nc3 → a6,True
+26,0.058427,6,Nf3 → d6 → cxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,6,Nf3 → d6 → Nxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,6,Nf3 → cxd4 → Nxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,6,e4 → e5 → Nf3 → Nc6 → a6 → O-O,True
+26,0.058427,6,e4 → e5 → Nf3 → Nc6 → Ba4 → O-O,True
+26,0.058427,6,e4 → e5 → Nf3 → Bb5 → a6 → O-O,True
+26,0.058427,6,e4 → e5 → Nf3 → Bb5 → Ba4 → O-O,True
+26,0.058427,6,e4 → e5 → Nf3 → a6 → Ba4 → O-O,True
+26,0.058427,6,e4 → e5 → Nf3 → a6 → Nf6 → O-O,True
+26,0.058427,6,e4 → e5 → Nf3 → Ba4 → Nf6 → O-O,True
+26,0.058427,6,e4 → e5 → Nc6 → Bb5 → a6 → O-O,True
+26,0.058427,6,e4 → e5 → Nc6 → Bb5 → Ba4 → O-O,True
+26,0.058427,6,e4 → e5 → Nc6 → a6 → Ba4 → O-O,True
+26,0.058427,6,e4 → e5 → Nc6 → a6 → Nf6 → O-O,True
+26,0.058427,6,e4 → e5 → Nc6 → Ba4 → Nf6 → O-O,True
+26,0.058427,6,e4 → e5 → Bb5 → a6 → Ba4 → O-O,True
+26,0.058427,6,e4 → e5 → Bb5 → a6 → Nf6 → O-O,True
+26,0.058427,6,e4 → e5 → Bb5 → Ba4 → Nf6 → O-O,True
+26,0.058427,6,e4 → e5 → a6 → Ba4 → Nf6 → O-O,True
+26,0.058427,6,e4 → Nf3 → Nc6 → Bb5 → a6 → O-O,True
+26,0.058427,6,e4 → Nf3 → Nc6 → Bb5 → Ba4 → O-O,True
+26,0.058427,6,e4 → Nf3 → Nc6 → a6 → Ba4 → O-O,True
+26,0.058427,6,e4 → Nf3 → Nc6 → a6 → Nf6 → O-O,True
+26,0.058427,6,e4 → Nf3 → Nc6 → Ba4 → Nf6 → O-O,True
+26,0.058427,6,e4 → Nf3 → Bb5 → a6 → Ba4 → O-O,True
+26,0.058427,6,e4 → Nf3 → Bb5 → a6 → Nf6 → O-O,True
+26,0.058427,6,e4 → Nf3 → Bb5 → Ba4 → Nf6 → O-O,True
+26,0.058427,6,e4 → Nf3 → d4 → Nxd4 → Nf6 → a6,True
+26,0.058427,6,e4 → Nf3 → d4 → Nxd4 → Nc3 → a6,True
+26,0.058427,6,e4 → Nf3 → d4 → cxd4 → Nf6 → a6,True
+26,0.058427,6,e4 → Nf3 → d4 → cxd4 → Nc3 → a6,True
+26,0.058427,6,e4 → Nf3 → Nxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,6,e4 → Nf3 → d6 → cxd4 → Nf6 → a6,True
+26,0.058427,6,e4 → Nf3 → d6 → cxd4 → Nc3 → a6,True
+26,0.058427,6,e4 → Nf3 → d6 → Nxd4 → Nf6 → a6,True
+26,0.058427,6,e4 → Nf3 → d6 → Nxd4 → Nc3 → a6,True
+26,0.058427,6,e4 → Nf3 → cxd4 → Nxd4 → Nf6 → a6,True
+26,0.058427,6,e4 → Nf3 → cxd4 → Nxd4 → Nc3 → a6,True
+26,0.058427,6,e4 → Nf3 → cxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,6,e4 → Nf3 → a6 → Ba4 → Nf6 → O-O,True
+26,0.058427,6,e4 → Nc6 → Bb5 → a6 → Ba4 → O-O,True
+26,0.058427,6,e4 → Nc6 → Bb5 → a6 → Nf6 → O-O,True
+26,0.058427,6,e4 → Nc6 → Bb5 → Ba4 → Nf6 → O-O,True
+26,0.058427,6,e4 → Nc6 → a6 → Ba4 → Nf6 → O-O,True
+26,0.058427,6,e4 → Bb5 → a6 → Ba4 → Nf6 → O-O,True
+26,0.058427,6,e4 → d4 → Nxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,6,e4 → d4 → cxd4 → Nxd4 → Nf6 → a6,True
+26,0.058427,6,e4 → d4 → cxd4 → Nxd4 → Nc3 → a6,True
+26,0.058427,6,e4 → d4 → cxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,6,e4 → c5 → Nf3 → cxd4 → Nf6 → a6,True
+26,0.058427,6,e4 → c5 → Nf3 → cxd4 → Nc3 → a6,True
+26,0.058427,6,e4 → c5 → Nf3 → Nxd4 → Nf6 → a6,True
+26,0.058427,6,e4 → c5 → Nf3 → Nxd4 → Nc3 → a6,True
+26,0.058427,6,e4 → c5 → d6 → cxd4 → Nf6 → a6,True
+26,0.058427,6,e4 → c5 → d6 → cxd4 → Nc3 → a6,True
+26,0.058427,6,e4 → c5 → d6 → Nxd4 → Nf6 → a6,True
+26,0.058427,6,e4 → c5 → d6 → Nxd4 → Nc3 → a6,True
+26,0.058427,6,e4 → c5 → d4 → cxd4 → Nf6 → a6,True
+26,0.058427,6,e4 → c5 → d4 → cxd4 → Nc3 → a6,True
+26,0.058427,6,e4 → c5 → d4 → Nxd4 → Nf6 → a6,True
+26,0.058427,6,e4 → c5 → d4 → Nxd4 → Nc3 → a6,True
+26,0.058427,6,e4 → c5 → cxd4 → Nxd4 → Nf6 → a6,True
+26,0.058427,6,e4 → c5 → cxd4 → Nxd4 → Nc3 → a6,True
+26,0.058427,6,e4 → c5 → cxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,6,e4 → c5 → Nxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,6,e4 → d6 → d4 → cxd4 → Nf6 → a6,True
+26,0.058427,6,e4 → d6 → d4 → cxd4 → Nc3 → a6,True
+26,0.058427,6,e4 → d6 → d4 → Nxd4 → Nf6 → a6,True
+26,0.058427,6,e4 → d6 → d4 → Nxd4 → Nc3 → a6,True
+26,0.058427,6,e4 → d6 → cxd4 → Nxd4 → Nf6 → a6,True
+26,0.058427,6,e4 → d6 → cxd4 → Nxd4 → Nc3 → a6,True
+26,0.058427,6,e4 → d6 → cxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,6,e4 → d6 → Nxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,6,e4 → cxd4 → Nxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,6,e5 → Nf3 → Nc6 → Bb5 → a6 → O-O,True
+26,0.058427,6,e5 → Nf3 → Nc6 → Bb5 → Ba4 → O-O,True
+26,0.058427,6,e5 → Nf3 → Nc6 → a6 → Ba4 → O-O,True
+26,0.058427,6,e5 → Nf3 → Nc6 → a6 → Nf6 → O-O,True
+26,0.058427,6,e5 → Nf3 → Nc6 → Ba4 → Nf6 → O-O,True
+26,0.058427,6,e5 → Nf3 → Bb5 → a6 → Ba4 → O-O,True
+26,0.058427,6,e5 → Nf3 → Bb5 → a6 → Nf6 → O-O,True
+26,0.058427,6,e5 → Nf3 → Bb5 → Ba4 → Nf6 → O-O,True
+26,0.058427,6,e5 → Nf3 → a6 → Ba4 → Nf6 → O-O,True
+26,0.058427,6,e5 → Nc6 → Bb5 → a6 → Ba4 → O-O,True
+26,0.058427,6,e5 → Nc6 → Bb5 → a6 → Nf6 → O-O,True
+26,0.058427,6,e5 → Nc6 → Bb5 → Ba4 → Nf6 → O-O,True
+26,0.058427,6,e5 → Nc6 → a6 → Ba4 → Nf6 → O-O,True
+26,0.058427,6,e5 → Bb5 → a6 → Ba4 → Nf6 → O-O,True
+26,0.058427,6,Nc6 → Bb5 → a6 → Ba4 → Nf6 → O-O,True
+26,0.058427,6,c5 → Nf3 → d6 → cxd4 → Nf6 → a6,True
+26,0.058427,6,c5 → Nf3 → d6 → cxd4 → Nc3 → a6,True
+26,0.058427,6,c5 → Nf3 → d6 → Nxd4 → Nf6 → a6,True
+26,0.058427,6,c5 → Nf3 → d6 → Nxd4 → Nc3 → a6,True
+26,0.058427,6,c5 → Nf3 → d4 → cxd4 → Nf6 → a6,True
+26,0.058427,6,c5 → Nf3 → d4 → cxd4 → Nc3 → a6,True
+26,0.058427,6,c5 → Nf3 → d4 → Nxd4 → Nf6 → a6,True
+26,0.058427,6,c5 → Nf3 → d4 → Nxd4 → Nc3 → a6,True
+26,0.058427,6,c5 → Nf3 → cxd4 → Nxd4 → Nf6 → a6,True
+26,0.058427,6,c5 → Nf3 → cxd4 → Nxd4 → Nc3 → a6,True
+26,0.058427,6,c5 → Nf3 → cxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,6,c5 → Nf3 → Nxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,6,c5 → d6 → d4 → cxd4 → Nf6 → a6,True
+26,0.058427,6,c5 → d6 → d4 → cxd4 → Nc3 → a6,True
+26,0.058427,6,c5 → d6 → d4 → Nxd4 → Nf6 → a6,True
+26,0.058427,6,c5 → d6 → d4 → Nxd4 → Nc3 → a6,True
+26,0.058427,6,c5 → d6 → cxd4 → Nxd4 → Nf6 → a6,True
+26,0.058427,6,c5 → d6 → cxd4 → Nxd4 → Nc3 → a6,True
+26,0.058427,6,c5 → d6 → cxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,6,c5 → d6 → Nxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,6,c5 → d4 → cxd4 → Nxd4 → Nf6 → a6,True
+26,0.058427,6,c5 → d4 → cxd4 → Nxd4 → Nc3 → a6,True
+26,0.058427,6,c5 → d4 → cxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,6,c5 → d4 → Nxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,6,c5 → cxd4 → Nxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,6,d6 → d4 → cxd4 → Nxd4 → Nf6 → a6,True
+26,0.058427,6,d6 → d4 → cxd4 → Nxd4 → Nc3 → a6,True
+26,0.058427,6,d6 → d4 → cxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,6,d6 → d4 → Nxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,6,d6 → cxd4 → Nxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,5,d4 → Nf6 → c4 → Nc3 → d5,True
+26,0.058427,5,d4 → Nxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,5,d4 → cxd4 → Nxd4 → Nf6 → a6,True
+26,0.058427,5,d4 → cxd4 → Nxd4 → Nc3 → a6,True
+26,0.058427,5,d4 → cxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,5,Nf3 → Nc6 → Bb5 → a6 → O-O,True
+26,0.058427,5,Nf3 → Nc6 → Bb5 → Ba4 → O-O,True
+26,0.058427,5,Nf3 → Nc6 → a6 → Ba4 → O-O,True
+26,0.058427,5,Nf3 → Nc6 → a6 → Nf6 → O-O,True
+26,0.058427,5,Nf3 → Nc6 → Ba4 → Nf6 → O-O,True
+26,0.058427,5,Nf3 → Bb5 → a6 → Ba4 → O-O,True
+26,0.058427,5,Nf3 → Bb5 → a6 → Nf6 → O-O,True
+26,0.058427,5,Nf3 → Bb5 → Ba4 → Nf6 → O-O,True
+26,0.058427,5,Nf3 → a6 → Ba4 → Nf6 → O-O,True
+26,0.058427,5,Nf3 → d4 → Nxd4 → Nf6 → a6,True
+26,0.058427,5,Nf3 → d4 → Nxd4 → Nc3 → a6,True
+26,0.058427,5,Nf3 → d4 → cxd4 → Nf6 → a6,True
+26,0.058427,5,Nf3 → d4 → cxd4 → Nc3 → a6,True
+26,0.058427,5,Nf3 → Nxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,5,Nf3 → d6 → cxd4 → Nf6 → a6,True
+26,0.058427,5,Nf3 → d6 → cxd4 → Nc3 → a6,True
+26,0.058427,5,Nf3 → d6 → Nxd4 → Nf6 → a6,True
+26,0.058427,5,Nf3 → d6 → Nxd4 → Nc3 → a6,True
+26,0.058427,5,Nf3 → cxd4 → Nxd4 → Nf6 → a6,True
+26,0.058427,5,Nf3 → cxd4 → Nxd4 → Nc3 → a6,True
+26,0.058427,5,Nf3 → cxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,5,e4 → e5 → Nf3 → a6 → O-O,True
+26,0.058427,5,e4 → e5 → Nf3 → Ba4 → O-O,True
+26,0.058427,5,e4 → e5 → Nc6 → a6 → O-O,True
+26,0.058427,5,e4 → e5 → Nc6 → Ba4 → O-O,True
+26,0.058427,5,e4 → e5 → Bb5 → a6 → O-O,True
+26,0.058427,5,e4 → e5 → Bb5 → Ba4 → O-O,True
+26,0.058427,5,e4 → e5 → a6 → Ba4 → O-O,True
+26,0.058427,5,e4 → e5 → a6 → Nf6 → O-O,True
+26,0.058427,5,e4 → e5 → Ba4 → Nf6 → O-O,True
+26,0.058427,5,e4 → Nf3 → Nc6 → a6 → O-O,True
+26,0.058427,5,e4 → Nf3 → Nc6 → Ba4 → O-O,True
+26,0.058427,5,e4 → Nf3 → Bb5 → a6 → O-O,True
+26,0.058427,5,e4 → Nf3 → Bb5 → Ba4 → O-O,True
+26,0.058427,5,e4 → Nf3 → Nxd4 → Nf6 → a6,True
+26,0.058427,5,e4 → Nf3 → Nxd4 → Nc3 → a6,True
+26,0.058427,5,e4 → Nf3 → cxd4 → Nf6 → a6,True
+26,0.058427,5,e4 → Nf3 → cxd4 → Nc3 → a6,True
+26,0.058427,5,e4 → Nf3 → a6 → Ba4 → O-O,True
+26,0.058427,5,e4 → Nf3 → a6 → Nf6 → O-O,True
+26,0.058427,5,e4 → Nf3 → Ba4 → Nf6 → O-O,True
+26,0.058427,5,e4 → Nc6 → Bb5 → a6 → O-O,True
+26,0.058427,5,e4 → Nc6 → Bb5 → Ba4 → O-O,True
+26,0.058427,5,e4 → Nc6 → a6 → Ba4 → O-O,True
+26,0.058427,5,e4 → Nc6 → a6 → Nf6 → O-O,True
+26,0.058427,5,e4 → Nc6 → Ba4 → Nf6 → O-O,True
+26,0.058427,5,e4 → Bb5 → a6 → Ba4 → O-O,True
+26,0.058427,5,e4 → Bb5 → a6 → Nf6 → O-O,True
+26,0.058427,5,e4 → Bb5 → Ba4 → Nf6 → O-O,True
+26,0.058427,5,e4 → d4 → Nxd4 → Nf6 → a6,True
+26,0.058427,5,e4 → d4 → Nxd4 → Nc3 → a6,True
+26,0.058427,5,e4 → d4 → cxd4 → Nf6 → a6,True
+26,0.058427,5,e4 → d4 → cxd4 → Nc3 → a6,True
+26,0.058427,5,e4 → Nxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,5,e4 → c5 → cxd4 → Nf6 → a6,True
+26,0.058427,5,e4 → c5 → cxd4 → Nc3 → a6,True
+26,0.058427,5,e4 → c5 → Nxd4 → Nf6 → a6,True
+26,0.058427,5,e4 → c5 → Nxd4 → Nc3 → a6,True
+26,0.058427,5,e4 → d6 → cxd4 → Nf6 → a6,True
+26,0.058427,5,e4 → d6 → cxd4 → Nc3 → a6,True
+26,0.058427,5,e4 → d6 → Nxd4 → Nf6 → a6,True
+26,0.058427,5,e4 → d6 → Nxd4 → Nc3 → a6,True
+26,0.058427,5,e4 → cxd4 → Nxd4 → Nf6 → a6,True
+26,0.058427,5,e4 → cxd4 → Nxd4 → Nc3 → a6,True
+26,0.058427,5,e4 → cxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,5,e4 → a6 → Ba4 → Nf6 → O-O,True
+26,0.058427,5,e5 → Nf3 → Nc6 → a6 → O-O,True
+26,0.058427,5,e5 → Nf3 → Nc6 → Ba4 → O-O,True
+26,0.058427,5,e5 → Nf3 → Bb5 → a6 → O-O,True
+26,0.058427,5,e5 → Nf3 → Bb5 → Ba4 → O-O,True
+26,0.058427,5,e5 → Nf3 → a6 → Ba4 → O-O,True
+26,0.058427,5,e5 → Nf3 → a6 → Nf6 → O-O,True
+26,0.058427,5,e5 → Nf3 → Ba4 → Nf6 → O-O,True
+26,0.058427,5,e5 → Nc6 → Bb5 → a6 → O-O,True
+26,0.058427,5,e5 → Nc6 → Bb5 → Ba4 → O-O,True
+26,0.058427,5,e5 → Nc6 → a6 → Ba4 → O-O,True
+26,0.058427,5,e5 → Nc6 → a6 → Nf6 → O-O,True
+26,0.058427,5,e5 → Nc6 → Ba4 → Nf6 → O-O,True
+26,0.058427,5,e5 → Bb5 → a6 → Ba4 → O-O,True
+26,0.058427,5,e5 → Bb5 → a6 → Nf6 → O-O,True
+26,0.058427,5,e5 → Bb5 → Ba4 → Nf6 → O-O,True
+26,0.058427,5,e5 → a6 → Ba4 → Nf6 → O-O,True
+26,0.058427,5,Nc6 → Bb5 → a6 → Ba4 → O-O,True
+26,0.058427,5,Nc6 → Bb5 → a6 → Nf6 → O-O,True
+26,0.058427,5,Nc6 → Bb5 → Ba4 → Nf6 → O-O,True
+26,0.058427,5,Nc6 → a6 → Ba4 → Nf6 → O-O,True
+26,0.058427,5,Bb5 → a6 → Ba4 → Nf6 → O-O,True
+26,0.058427,5,c5 → Nf3 → cxd4 → Nf6 → a6,True
+26,0.058427,5,c5 → Nf3 → cxd4 → Nc3 → a6,True
+26,0.058427,5,c5 → Nf3 → Nxd4 → Nf6 → a6,True
+26,0.058427,5,c5 → Nf3 → Nxd4 → Nc3 → a6,True
+26,0.058427,5,c5 → d6 → cxd4 → Nf6 → a6,True
+26,0.058427,5,c5 → d6 → cxd4 → Nc3 → a6,True
+26,0.058427,5,c5 → d6 → Nxd4 → Nf6 → a6,True
+26,0.058427,5,c5 → d6 → Nxd4 → Nc3 → a6,True
+26,0.058427,5,c5 → d4 → cxd4 → Nf6 → a6,True
+26,0.058427,5,c5 → d4 → cxd4 → Nc3 → a6,True
+26,0.058427,5,c5 → d4 → Nxd4 → Nf6 → a6,True
+26,0.058427,5,c5 → d4 → Nxd4 → Nc3 → a6,True
+26,0.058427,5,c5 → cxd4 → Nxd4 → Nf6 → a6,True
+26,0.058427,5,c5 → cxd4 → Nxd4 → Nc3 → a6,True
+26,0.058427,5,c5 → cxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,5,c5 → Nxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,5,d6 → d4 → cxd4 → Nf6 → a6,True
+26,0.058427,5,d6 → d4 → cxd4 → Nc3 → a6,True
+26,0.058427,5,d6 → d4 → Nxd4 → Nf6 → a6,True
+26,0.058427,5,d6 → d4 → Nxd4 → Nc3 → a6,True
+26,0.058427,5,d6 → cxd4 → Nxd4 → Nf6 → a6,True
+26,0.058427,5,d6 → cxd4 → Nxd4 → Nc3 → a6,True
+26,0.058427,5,d6 → cxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,5,d6 → Nxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,5,cxd4 → Nxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,4,d4 → Nf6 → c4 → Bg7,True
+26,0.058427,4,d4 → c4 → Nf3 → d5,True
+26,0.058427,4,d4 → e6 → Nf3 → d5,True
+26,0.058427,4,d4 → Nxd4 → Nf6 → a6,True
+26,0.058427,4,d4 → Nxd4 → Nc3 → a6,True
+26,0.058427,4,d4 → cxd4 → Nf6 → a6,True
+26,0.058427,4,d4 → cxd4 → Nc3 → a6,True
+26,0.058427,4,Nf6 → c4 → Nc3 → O-O,True
+26,0.058427,4,Nf3 → Nc6 → a6 → O-O,True
+26,0.058427,4,Nf3 → Nc6 → Ba4 → O-O,True
+26,0.058427,4,Nf3 → Bb5 → a6 → O-O,True
+26,0.058427,4,Nf3 → Bb5 → Ba4 → O-O,True
+26,0.058427,4,Nf3 → a6 → Nf6 → O-O,True
+26,0.058427,4,Nf3 → a6 → Ba4 → O-O,True
+26,0.058427,4,Nf3 → Nxd4 → Nf6 → a6,True
+26,0.058427,4,Nf3 → Nxd4 → Nc3 → a6,True
+26,0.058427,4,Nf3 → cxd4 → Nf6 → a6,True
+26,0.058427,4,Nf3 → cxd4 → Nc3 → a6,True
+26,0.058427,4,Nf3 → Ba4 → Nf6 → O-O,True
+26,0.058427,4,e4 → e5 → Nf3 → Bc5,True
+26,0.058427,4,e4 → e5 → Nc6 → Bc5,True
+26,0.058427,4,e4 → e5 → a6 → O-O,True
+26,0.058427,4,e4 → e5 → Ba4 → O-O,True
+26,0.058427,4,e4 → Nf3 → a6 → O-O,True
+26,0.058427,4,e4 → Nf3 → Ba4 → O-O,True
+26,0.058427,4,e4 → Nc6 → a6 → O-O,True
+26,0.058427,4,e4 → Nc6 → Ba4 → O-O,True
+26,0.058427,4,e4 → Bb5 → a6 → O-O,True
+26,0.058427,4,e4 → Bb5 → Ba4 → O-O,True
+26,0.058427,4,e4 → Nxd4 → Nf6 → a6,True
+26,0.058427,4,e4 → Nxd4 → Nc3 → a6,True
+26,0.058427,4,e4 → cxd4 → Nf6 → a6,True
+26,0.058427,4,e4 → cxd4 → Nc3 → a6,True
+26,0.058427,4,e4 → a6 → Ba4 → O-O,True
+26,0.058427,4,e4 → a6 → Nf6 → O-O,True
+26,0.058427,4,e4 → Ba4 → Nf6 → O-O,True
+26,0.058427,4,e5 → Nf3 → a6 → O-O,True
+26,0.058427,4,e5 → Nf3 → Ba4 → O-O,True
+26,0.058427,4,e5 → Nc6 → a6 → O-O,True
+26,0.058427,4,e5 → Nc6 → Ba4 → O-O,True
+26,0.058427,4,e5 → Bb5 → a6 → O-O,True
+26,0.058427,4,e5 → Bb5 → Ba4 → O-O,True
+26,0.058427,4,e5 → a6 → Ba4 → O-O,True
+26,0.058427,4,e5 → a6 → Nf6 → O-O,True
+26,0.058427,4,e5 → Ba4 → Nf6 → O-O,True
+26,0.058427,4,Nc6 → Bb5 → a6 → O-O,True
+26,0.058427,4,Nc6 → Bb5 → Ba4 → O-O,True
+26,0.058427,4,Nc6 → a6 → Ba4 → O-O,True
+26,0.058427,4,Nc6 → a6 → Nf6 → O-O,True
+26,0.058427,4,Nc6 → Ba4 → Nf6 → O-O,True
+26,0.058427,4,Bb5 → a6 → Ba4 → O-O,True
+26,0.058427,4,Bb5 → a6 → Nf6 → O-O,True
+26,0.058427,4,Bb5 → Ba4 → Nf6 → O-O,True
+26,0.058427,4,c5 → cxd4 → Nf6 → a6,True
+26,0.058427,4,c5 → cxd4 → Nc3 → a6,True
+26,0.058427,4,c5 → Nxd4 → Nf6 → a6,True
+26,0.058427,4,c5 → Nxd4 → Nc3 → a6,True
+26,0.058427,4,a6 → Ba4 → Nf6 → O-O,True
+26,0.058427,4,Nxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,4,d6 → cxd4 → Nf6 → a6,True
+26,0.058427,4,d6 → cxd4 → Nc3 → a6,True
+26,0.058427,4,d6 → Nxd4 → Nf6 → a6,True
+26,0.058427,4,d6 → Nxd4 → Nc3 → a6,True
+26,0.058427,4,cxd4 → Nxd4 → Nf6 → a6,True
+26,0.058427,4,cxd4 → Nxd4 → Nc3 → a6,True
+26,0.058427,4,cxd4 → Nf6 → Nc3 → a6,True
+26,0.058427,3,Nf6 → c4 → Bg7,True
+26,0.058427,3,Nf6 → e6 → g3,True
+26,0.058427,3,c4 → Nf3 → Nf6,True
+26,0.058427,3,c4 → d5 → cxd5,True
+26,0.058427,3,c4 → Nc3 → cxd5,True
+26,0.058427,3,e6 → d5 → Nc3,True
+26,0.058427,3,Nf3 → Nc6 → d3,True
+26,0.058427,3,Nf3 → a6 → O-O,True
+26,0.058427,3,Nf3 → Ba4 → O-O,True
+26,0.058427,3,e4 → e5 → Bc5,True
+26,0.058427,3,e4 → e5 → d3,True
+26,0.058427,3,e4 → Nf3 → Bc5,True
+26,0.058427,3,e4 → Nc6 → Bc5,True
+26,0.058427,3,e4 → a6 → O-O,True
+26,0.058427,3,e4 → g6 → Bg7,True
+26,0.058427,3,e4 → Ba4 → O-O,True
+26,0.058427,3,e5 → Nf3 → Bc5,True
+26,0.058427,3,e5 → Nf6 → d3,True
+26,0.058427,3,e5 → a6 → O-O,True
+26,0.058427,3,e5 → Ba4 → O-O,True
+26,0.058427,3,Nc6 → a6 → O-O,True
+26,0.058427,3,Nc6 → Ba4 → O-O,True
+26,0.058427,3,Bb5 → a6 → O-O,True
+26,0.058427,3,Bb5 → Ba4 → O-O,True
+26,0.058427,3,a6 → Nf6 → O-O,True
+26,0.058427,3,a6 → Ba4 → O-O,True
+26,0.058427,3,Nxd4 → Nf6 → a6,True
+26,0.058427,3,Nxd4 → Nc3 → a6,True
+26,0.058427,3,cxd4 → Nf6 → a6,True
+26,0.058427,3,cxd4 → Nc3 → a6,True
+26,0.058427,3,Ba4 → Nf6 → O-O,True
+26,0.058427,2,d4 → cxd5,True
+26,0.058427,2,e6 → Bg2,True
+26,0.058427,2,Nf3 → Bc5,True
+26,0.058427,2,d5 → exd5,True
+26,0.058427,2,Nc3 → cxd5,True
+26,0.058427,2,e4 → Bc5,True
+26,0.058427,2,Nc6 → d3,True
+26,0.058427,2,a6 → O-O,True
+26,0.058427,2,Ba4 → O-O,True
+25,0.05618,5,d4 → Nf6 → c4 → Nf3 → d5,True
+25,0.05618,5,d4 → Nf6 → c4 → Nc3 → O-O,True
+25,0.05618,5,d4 → Nf6 → c4 → g6 → Bg7,True
+25,0.05618,5,d4 → c4 → e6 → Nf3 → d5,True
+25,0.05618,4,d4 → Nf6 → g3 → Bg2,True
+25,0.05618,4,d4 → c4 → g6 → Bg7,True
+25,0.05618,4,Nf6 → c4 → e6 → g3,True
+25,0.05618,4,Nf6 → c4 → Nf3 → d5,True
+25,0.05618,4,Nf6 → c4 → g3 → Bg2,True
+25,0.05618,4,Nf6 → c4 → g6 → Bg7,True
+25,0.05618,4,e4 → e5 → Nf6 → d3,True
+25,0.05618,3,d4 → d5 → c6,True
+25,0.05618,3,d4 → d5 → e3,True
+25,0.05618,3,Nf6 → c4 → Bg2,True
+25,0.05618,3,c4 → Nf3 → g3,True
+25,0.05618,3,c4 → Nc3 → e3,True
+25,0.05618,3,c4 → g6 → Nc3,True
+25,0.05618,3,Nf3 → d5 → Nc3,True
+25,0.05618,3,Nf3 → d4 → Nc6,True
+25,0.05618,3,Nf3 → g6 → Bg7,True
+25,0.05618,3,e4 → Nf6 → Nxe4,True
+25,0.05618,3,e4 → Nf6 → d3,True
+25,0.05618,2,Nf6 → Nxe4,True
+25,0.05618,2,c4 → d6,True
+25,0.05618,2,d5 → e5,True
+25,0.05618,2,Nc6 → c3,True
+25,0.05618,2,c5 → g6,True
+24,0.053933,6,d4 → Nf6 → c4 → e6 → Nf3 → d5,True
+24,0.053933,5,d4 → Nf6 → e6 → Nf3 → d5,True
+24,0.053933,5,Nf6 → c4 → e6 → Nf3 → d5,True
+24,0.053933,5,e4 → e5 → Nf3 → Nc6 → Bc5,True
+24,0.053933,4,d4 → Nf6 → g6 → Nc3,True
+24,0.053933,4,d4 → c4 → Nf3 → Nf6,True
+24,0.053933,4,d4 → c4 → g3 → Bg2,True
+24,0.053933,4,Nf6 → c4 → e6 → O-O,True
+24,0.053933,4,Nf6 → e6 → Nf3 → d5,True
+24,0.053933,4,e4 → Nf3 → Nc6 → Bc5,True
+24,0.053933,4,e4 → Nf3 → Nc6 → d3,True
+24,0.053933,4,e5 → Nf3 → Nc6 → Bc5,True
+24,0.053933,4,e5 → Nf3 → Nc6 → d3,True
+24,0.053933,3,d4 → Nf6 → Be7,True
+24,0.053933,3,d4 → Nf6 → e4,True
+24,0.053933,3,d4 → c4 → e3,True
+24,0.053933,3,d4 → c4 → Bg2,True
+24,0.053933,3,d4 → e6 → O-O,True
+24,0.053933,3,d4 → d5 → c5,True
+24,0.053933,3,Nf6 → Nc3 → e4,True
+24,0.053933,3,Nf6 → g6 → Nc3,True
+24,0.053933,3,Nf3 → Nc6 → Bc5,True
+24,0.053933,3,Nf3 → Nf6 → d3,True
+24,0.053933,3,d5 → Nf6 → Nc3,True
+24,0.053933,3,d5 → Nf6 → e6,True
+24,0.053933,3,e4 → e5 → Bc4,True
+24,0.053933,3,e4 → Nf3 → d3,True
+24,0.053933,3,e4 → Nc6 → c3,True
+24,0.053933,3,e4 → Nc6 → d3,True
+24,0.053933,3,e5 → Nf3 → d3,True
+24,0.053933,3,e5 → Nc6 → d3,True
+24,0.053933,2,Nf6 → e5,True
+24,0.053933,2,c4 → Be7,True
+24,0.053933,2,e6 → e3,True
+24,0.053933,2,Nc3 → d6,True
+24,0.053933,2,e4 → Bc4,True
+24,0.053933,2,e5 → Bc4,True
+24,0.053933,2,Nc6 → d4,True
+24,0.053933,2,c6 → Nf3,True
+24,0.053933,2,c6 → Nf6,True
+24,0.053933,2,c6 → Nc3,True
+24,0.053933,2,g6 → d6,True
+23,0.051685,5,d4 → Nf6 → c4 → e6 → g3,True
+23,0.051685,5,d4 → Nf6 → c4 → g6 → Nc3,True
+23,0.051685,5,d4 → d5 → c4 → Nf3 → Nf6,True
+23,0.051685,5,e4 → e5 → Nf3 → Nc6 → d3,True
+23,0.051685,4,d4 → Nf6 → e6 → g3,True
+23,0.051685,4,d4 → c4 → e6 → O-O,True
+23,0.051685,4,d4 → c4 → Nf3 → g3,True
+23,0.051685,4,d4 → c4 → g6 → Nc3,True
+23,0.051685,4,d4 → d5 → c4 → Nc3,True
+23,0.051685,4,Nf6 → c4 → g6 → Nc3,True
+23,0.051685,4,Nf3 → g3 → Bg2 → O-O,True
+23,0.051685,4,d5 → c4 → Nf3 → Nf6,True
+23,0.051685,4,e4 → e5 → Nf3 → d3,True
+23,0.051685,4,e4 → e5 → Nc6 → d3,True
+23,0.051685,4,e4 → Nf3 → Nf6 → Nxe4,True
+23,0.051685,4,e4 → c5 → d4 → Nc6,True
+23,0.051685,3,d4 → Nf6 → d6,True
+23,0.051685,3,Nf6 → c4 → c5,True
+23,0.051685,3,Nf6 → Nc3 → Bg7,True
+23,0.051685,3,Nf6 → Bg2 → O-O,True
+23,0.051685,3,c4 → e6 → Nf6,True
+23,0.051685,3,e6 → g3 → Bg2,True
+23,0.051685,3,Nf3 → d5 → g3,True
+23,0.051685,3,Nf3 → Nc6 → c3,True
+23,0.051685,3,Nf3 → Nf6 → Nxe4,True
+23,0.051685,3,Nf3 → Nf6 → c4,True
+23,0.051685,3,Nf3 → Bg2 → O-O,True
+23,0.051685,3,d5 → c4 → c6,True
+23,0.051685,3,e4 → Nf3 → Nxe4,True
+23,0.051685,3,e4 → d4 → e5,True
+23,0.051685,3,c5 → d4 → Nc6,True
+23,0.051685,2,c4 → dxc4,True
+23,0.051685,2,Nf3 → Nxe4,True
+23,0.051685,2,d5 → dxc4,True
+23,0.051685,2,Nc6 → Nc3,True
+23,0.051685,2,g6 → e4,True
+22,0.049438,6,e4 → e5 → Nf3 → Nc6 → Nf6 → d3,True
+22,0.049438,6,e4 → c5 → Nf3 → d4 → cxd4 → Nc6,True
+22,0.049438,5,d4 → Nf6 → c4 → g3 → Bg2,True
+22,0.049438,5,e4 → e5 → Nf3 → Nf6 → d3,True
+22,0.049438,5,e4 → e5 → Nc6 → Nf6 → d3,True
+22,0.049438,5,e4 → Nf3 → Nc6 → Nf6 → d3,True
+22,0.049438,5,e4 → Nf3 → d4 → cxd4 → Nc6,True
+22,0.049438,5,e4 → c5 → Nf3 → d4 → Nc6,True
+22,0.049438,5,e4 → c5 → Nf3 → cxd4 → Nc6,True
+22,0.049438,5,e4 → c5 → d4 → cxd4 → Nc6,True
+22,0.049438,5,e5 → Nf3 → Nc6 → Nf6 → d3,True
+22,0.049438,5,c5 → Nf3 → d4 → cxd4 → Nc6,True
+22,0.049438,4,d4 → Nf6 → c4 → Bg2,True
+22,0.049438,4,d4 → Nf6 → e6 → O-O,True
+22,0.049438,4,d4 → d5 → c4 → c6,True
+22,0.049438,4,c4 → e6 → g3 → Bg2,True
+22,0.049438,4,Nf3 → Nc6 → Nf6 → d3,True
+22,0.049438,4,Nf3 → d4 → cxd4 → Nc6,True
+22,0.049438,4,e4 → e5 → Bc4 → Nf6,True
+22,0.049438,4,e4 → Nf3 → Nc6 → c3,True
+22,0.049438,4,e4 → Nf3 → Nf6 → d3,True
+22,0.049438,4,e4 → Nf3 → d4 → Nc6,True
+22,0.049438,4,e4 → Nf3 → cxd4 → Nc6,True
+22,0.049438,4,e4 → Nc6 → Nf6 → d3,True
+22,0.049438,4,e4 → d4 → cxd4 → Nc6,True
+22,0.049438,4,e4 → c5 → cxd4 → Nc6,True
+22,0.049438,4,e5 → Nf3 → Nf6 → d3,True
+22,0.049438,4,e5 → Nc6 → Nf6 → d3,True
+22,0.049438,4,c5 → Nf3 → d4 → Nc6,True
+22,0.049438,4,c5 → Nf3 → cxd4 → Nc6,True
+22,0.049438,4,c5 → d4 → cxd4 → Nc6,True
+22,0.049438,3,d4 → Nf6 → cxd5,True
+22,0.049438,3,d4 → Nf6 → Nc6,True
+22,0.049438,3,d4 → c4 → c5,True
+22,0.049438,3,d4 → e6 → Be7,True
+22,0.049438,3,d4 → Nf3 → e6,True
+22,0.049438,3,d4 → cxd4 → Nc6,True
+22,0.049438,3,Nf6 → Nf3 → g3,True
+22,0.049438,3,c4 → e6 → Be7,True
+22,0.049438,3,c4 → e6 → Bg2,True
+22,0.049438,3,Nf3 → d5 → Bg2,True
+22,0.049438,3,Nf3 → Nc6 → d4,True
+22,0.049438,3,Nf3 → e6 → Nc3,True
+22,0.049438,3,Nf3 → cxd4 → Nc6,True
+22,0.049438,3,d5 → g3 → Bg2,True
+22,0.049438,3,e4 → Nc6 → d4,True
+22,0.049438,3,e4 → d5 → e5,True
+22,0.049438,3,e4 → cxd4 → Nc6,True
+22,0.049438,3,e4 → e6 → d5,True
+22,0.049438,3,e4 → e6 → Nc3,True
+22,0.049438,3,e4 → Bc4 → Nf6,True
+22,0.049438,3,e5 → Bc4 → Nf6,True
+22,0.049438,3,Nc6 → Nf6 → d3,True
+22,0.049438,3,c5 → cxd4 → Nc6,True
+22,0.049438,3,g6 → Bg7 → O-O,True
+22,0.049438,3,g6 → Bg7 → d6,True
+22,0.049438,2,d4 → Bg5,False
+22,0.049438,2,Nf6 → d4,True
+22,0.049438,2,c4 → Nc6,True
+22,0.049438,2,e5 → d6,True
+22,0.049438,2,cxd4 → Nc6,True
+22,0.049438,2,Bg7 → O-O,True
+22,0.049438,2,Bg7 → d6,True
+22,0.049438,2,Bc4 → Nf6,True
