@@ -231,30 +231,6 @@ export default function OpeningAnalysis() {
                   </TableBody>
                 </Table>
 
-                <Divider sx={{ my: 2.5 }} />
-
-                {/* Mini outcome bars */}
-                <Typography variant="subtitle2" fontWeight={700} gutterBottom>
-                  Outcome Breakdown
-                </Typography>
-                {analysis.winRates.map((item, i) => (
-                  <Box key={item.name} sx={{ mb: 1.5 }}>
-                    <Box sx={{ display: 'flex', justifyContent: 'space-between', mb: 0.5 }}>
-                      <Typography variant="caption" color="text.secondary">{item.name}</Typography>
-                      <Typography variant="caption" fontWeight={700} color={OUTCOME_COLORS[i]}>
-                        {item.value}%
-                      </Typography>
-                    </Box>
-                    <LinearProgress
-                      variant="determinate"
-                      value={item.value}
-                      sx={{
-                        bgcolor: `${OUTCOME_COLORS[i]}22`,
-                        '& .MuiLinearProgress-bar': { background: OUTCOME_COLORS[i] },
-                      }}
-                    />
-                  </Box>
-                ))}
               </CardContent>
             </Card>
           </Grid>
